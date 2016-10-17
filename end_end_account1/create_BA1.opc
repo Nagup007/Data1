@@ -1,0 +1,84 @@
+.opctl on
+
+# description: Create a cc account, with the passed in name
+
+#
+# usage: opcoder create_cc.opc firstname [middlename [lastname]] [login]
+#
+#       firstname  = canonical form of first name (OPTIONAL)
+#       middlename = canonical form (lower case) of middle name (OPTIONAL)
+#       lastname   = canonical form of last name (OPTIONAL)
+#	login   defaults to firstname
+#
+#		default = clark2 cc clark2
+#
+
+.parmlist BA_ACCOUNT_NO BA_BILLINFO_ID 
+.opctl off
+W Sun Jan 01 02:02:34 2006  elrond  cm:26196  cm_child.c:3464
+	CM input flist: op PCM_OP_CUST_COMMIT_CUSTOMER, flags 0x0
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+0 PIN_FLD_FLAGS           INT [0] 0
+0 PIN_FLD_PAYINFO       ARRAY [0] allocated 20, used 5
+1     PIN_FLD_INV_TYPE       ENUM [0] 2
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /payinfo/invoice -1 0
+1     PIN_FLD_PAYMENT_TERM   ENUM [0] 0
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+2         PIN_FLD_INV_INFO      ARRAY [0] allocated 20, used 7
+3             PIN_FLD_DELIVERY_PREFER   ENUM [0] 0
+3             PIN_FLD_NAME            STR [0] "WEBUI1"
+3             PIN_FLD_COUNTRY         STR [0] "IN"
+3             PIN_FLD_ZIP             STR [0] "96789"
+3             PIN_FLD_STATE           STR [0] "KA"
+3             PIN_FLD_CITY            STR [0] "Bengalore"
+3             PIN_FLD_ADDRESS         STR [0] "PSN-crescent 2"
+1     PIN_FLD_FLAGS           INT [0] 1
+1     PIN_FLD_PAY_TYPE       ENUM [0] 10001
+0 PIN_FLD_NAMEINFO      ARRAY [1] allocated 20, used 9
+1     PIN_FLD_TITLE           STR [0] "Mr."
+1     PIN_FLD_LAST_NAME       STR [0] "TESTINGBA"
+1     PIN_FLD_FIRST_NAME      STR [0] "TESTINGBA"
+1     PIN_FLD_COUNTRY         STR [0] "IN"
+1     PIN_FLD_ZIP             STR [0] "96789"
+1     PIN_FLD_STATE           STR [0] "KA"
+1     PIN_FLD_CITY            STR [0] "Bengalore"
+1     PIN_FLD_ADDRESS         STR [0] "Bengalore"
+1     PIN_FLD_COMPANY         STR [0] "Bill_Account"
+1     PIN_FLD_PHONES        ARRAY [0] allocated 20, used 2
+2         PIN_FLD_TYPE           ENUM [0] 1
+2         PIN_FLD_PHONE           STR [0] "408-111-2225"
+1     PIN_FLD_PHONES        ARRAY [1] allocated 20, used 2
+2         PIN_FLD_TYPE           ENUM [0] 2
+2         PIN_FLD_PHONE           STR [0] "408-111-2226"
+0 PIN_FLD_BAL_INFO      ARRAY [0] allocated 20, used 3
+1     PIN_FLD_NAME            STR [0] "Account Level Balance Group"
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /balance_group -1 0
+1     PIN_FLD_BILLINFO      ARRAY [0]     NULL array ptr
+0 PIN_FLD_ACCTINFO      ARRAY [0] allocated 20, used 7
+1     PIN_FLD_ACCOUNT_NO      STR [0] "$(BA_ACCOUNT_NO)"
+1     PIN_FLD_ACCESS_CODE1    STR [0] "0132"
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /account -1 0
+1     PIN_FLD_AAC_SOURCE      STR [0] "NON-CARRIER"
+1     PIN_FLD_AAC_VENDOR      STR [0] "Voice"
+1     PIN_FLD_BAL_INFO      ARRAY [0]     NULL array ptr
+1     PIN_FLD_CURRENCY        INT [0] 840
+1     PIN_FLD_BUSINESS_TYPE   ENUM [0] 2
+0 PIN_FLD_BILLINFO      ARRAY [0] allocated 20, used 8
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /billinfo -1 0
+1     PIN_FLD_BILLINFO_ID     STR [0] "$(BA_BILLINFO_ID)"
+1     PIN_FLD_BILL_WHEN       INT [0] 1
+1     PIN_FLD_PAYINFO       ARRAY [0]     NULL array ptr
+1     PIN_FLD_PAY_TYPE       ENUM [0] 10001
+1     PIN_FLD_BAL_INFO      ARRAY [0]     NULL array ptr
+1     PIN_FLD_CURRENCY        INT [0] 840
+D 2015-08-06 03:48:55.516  sacjoshi-linux  cm:10969.-158521632  fm_cust_commit_customer.c:313 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+         CM output flist: opcode PCM_OP_CUST_COMMIT_CUSTOMER
+# number of field entries allocated 29, used 28
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+#0 PIN_FLD_PAYINFO       ARRAY [0] allocated 20, used 5
+#1     PIN_FLD_INV_TYPE       ENUM [0] 0
+0 PIN_FLD_BAL_INFO      ARRAY [0] allocated 20, used 3 
+.hash ba_account_id0 3
+1     PIN_FLD_ACCOUNT_OBJ           POID [0] 0.0.0.1 /account 3489766 0
+.hash ba_billinfo_id0 3
+1       PIN_FLD_BILLINFO_OBJ    POID [0] 0.0.0.1 /billinfo 680667 0

@@ -1,0 +1,642 @@
+** opcoder 7.3-77  ( 27-Sep-05.15:31:11 /main/QEDTools_Integration/clark_PlatformApollo/2 )
+
+Infranet Version: 
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=Portal_Base
+VERSION=7.5.0
+COMPONENTS= "Portal Base Install Scripts","Rogue Wave Libraries","Common Database Scripts","batch_controller","pin_billd","pin_cfg_bpdump","pin_inv","cmmp","cm_proxy","sample","dm_email","pin_export_price","config_export","credit_control","sox_unlock_service","adu","infmgr","infmgr_cli","dm_invoice","DM Feature","dm_oracle","bip_udf","formatter","null","nmgr","pin_subscription","testnap","uei","cm","Java PCM Files","Shared Objects for Communication","Shared Perl Modules","load_config","storable_class_to_xml","Common Install Scripts", 
+BUILD_TIME= 10-31-2011 10:17:10 
+INSTALLED_TIME=Fri, 19 Sep 2014 18:06:37 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=EAI_FrameworkMgr
+VERSION=7.5.0
+COMPONENTS= "cm_eai","eai_js","dm_eai", 
+BUILD_TIME= 10-31-2011 10:8:15 
+INSTALLED_TIME=Fri, 19 Sep 2014 18:49:29 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=DM_AQ
+VERSION=7.5.0
+COMPONENTS= "dm_aq", 
+BUILD_TIME= 10-31-2011 10:8:43 
+INSTALLED_TIME=Mon, 22 Sep 2014 12:52:56 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=VertexMgr
+VERSION=7.5.0
+COMPONENTS= "dm_vertex", 
+BUILD_TIME= 10-31-2011 10:22:42 
+INSTALLED_TIME=Mon, 22 Sep 2014 15:31:14 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=CollectionsMgr
+VERSION=7.5.0
+COMPONENTS= "pin_collections", 
+BUILD_TIME= 10-31-2011 10:6:31 
+INSTALLED_TIME=Mon, 22 Sep 2014 15:33:44 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=AccountSynchTool
+VERSION=7.5.0
+COMPONENTS= "dm_ifw_sync","cm_acctsync", 
+BUILD_TIME= 10-31-2011 10:6:3 
+INSTALLED_TIME=Mon, 22 Sep 2014 15:49:43 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=BRM_JCA_Adapter
+VERSION=7.5.0
+COMPONENTS= "jca_adapter","brm_specs", 
+BUILD_TIME= 10-31-2011 10:11:45 
+INSTALLED_TIME=Mon, 22 Sep 2014 16:19:15 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS2
+COMPONENTS= patch_14334024 
+BUILD_TIME= 8-20-2012 23:2:25 
+INSTALLED_TIME=Fri, 26 Sep 2014 15:05:07 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=PortalBase_Upgrade_74_75
+VERSION=7.5PS2
+COMPONENTS= PortalBase Upgrade_74_75 
+BUILD_TIME= 8-20-2012 17:53:19 
+INSTALLED_TIME=Fri, 26 Sep 2014 15:07:04 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=RatedEventLoader
+VERSION=7.5.0
+COMPONENTS= "rel","rel_tt","eet", 
+BUILD_TIME= 10-31-2011 10:19:23 
+INSTALLED_TIME=Tue, 3 Mar 2015 15:52:55 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=WirelessSuite
+VERSION=7.5.0
+COMPONENTS= "number_manager","sim_manager","gsm","fm_prov_wireless","tcframework","dm_prov_telco","tcf_aaa","gsm_aaa","gprs_30","gprs_aaa","rrf","vouchermanager","inventory"  
+BUILD_TIME= 10-31-2011 10:14:54 
+INSTALLED_TIME=Mon, 9 Mar 2015 14:30:13 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=WirelessSuite
+VERSION=7.5.0
+COMPONENTS= "number_manager","sim_manager","gsm","fm_prov_wireless","tcframework","dm_prov_telco","tcf_aaa","gsm_aaa","gprs_30","gprs_aaa","rrf","vouchermanager","inventory"  
+BUILD_TIME= 10-31-2011 10:14:54 
+UNINSTALLED_TIME=Mon, 9 Mar 2015 15:32:04 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=GSM_Mgr
+VERSION=7.5.0
+COMPONENTS= "gsm","fm_prov_wireless","tcframework","dm_prov_telco", 
+BUILD_TIME= 10-31-2011 10:11:16 
+INSTALLED_TIME=Mon, 9 Mar 2015 15:39:43 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=GSM_Mgr
+VERSION=7.5.0
+COMPONENTS= "gsm","fm_prov_wireless","tcframework","dm_prov_telco", 
+BUILD_TIME= 10-31-2011 10:11:16 
+UNINSTALLED_TIME=Fri, 13 Mar 2015 10:18:54 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=WirelessSuite
+VERSION=7.5.0
+COMPONENTS= "number_manager","sim_manager","gsm","fm_prov_wireless","tcframework","dm_prov_telco","tcf_aaa","gsm_aaa","gprs_30","gprs_aaa","rrf","vouchermanager","inventory"  
+BUILD_TIME= 10-31-2011 10:14:54 
+INSTALLED_TIME=Fri, 13 Mar 2015 10:21:39 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS2
+COMPONENTS= patch_15881312 
+BUILD_TIME= 12-9-2012 22:46:44 
+INSTALLED_TIME=Thu, 9 Apr 2015 21:00:28 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=PaymentechMgr
+VERSION=7.5.0
+COMPONENTS= "dm_fusa", 
+BUILD_TIME= 10-31-2011 10:16:5 
+INSTALLED_TIME=Tue, 21 Apr 2015 21:21:24 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=ConversionMgr
+VERSION=7.5.0
+COMPONENTS= "cmt", 
+BUILD_TIME= 10-31-2011 10:7:41 
+INSTALLED_TIME=Wed, 22 Apr 2015 23:49:35 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS6
+COMPONENTS= patch_19343220 
+BUILD_TIME= 8-4-2014 0:46:48 
+INSTALLED_TIME=Wed, 12 Aug 2015 18:24:37 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=Opframe
+VERSION=7.4
+COMPONENTS= "" 
+BUILD_TIME= ERROR: product bean cmpBuildTime does not exist 
+INSTALLED_TIME=Tue, 8 Sep 2015 13:45:22 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=Opframe
+VERSION=7.4
+COMPONENTS= "null", 
+BUILD_TIME= ERROR: product bean cmpBuildTime does not exist 
+UNINSTALLED_TIME=Tue, 8 Sep 2015 14:24:57 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=Opframe
+VERSION=7.4
+COMPONENTS= "" 
+BUILD_TIME= ERROR: product bean cmpBuildTime does not exist 
+INSTALLED_TIME=Tue, 8 Sep 2015 14:26:30 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS6
+COMPONENTS= patch_19343220 
+BUILD_TIME= 8-4-2014 0:46:48 
+UNINSTALLED_TIME=Mon, 21 Sep 2015 13:57:59 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=RatedEventLoader
+VERSION=7.5.0
+COMPONENTS= "rel","rel_tt","eet", 
+BUILD_TIME= 10-31-2011 10:19:23 
+INSTALLED_TIME=Fri, 13 Nov 2015 12:54:05 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=GSM_Mgr
+VERSION=7.5.0
+COMPONENTS= "gsm", 
+BUILD_TIME= 10-31-2011 10:11:16 
+INSTALLED_TIME=Wed, 18 Nov 2015 16:31:09 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=GSM_Mgr
+VERSION=7.5.0
+COMPONENTS= "gsm", 
+BUILD_TIME= 10-31-2011 10:11:16 
+UNINSTALLED_TIME=Wed, 18 Nov 2015 16:46:34 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=TelcoFrameworkMgr
+VERSION=7.5.0
+COMPONENTS=  
+BUILD_TIME= 10-31-2011 10:21:50 
+INSTALLED_TIME=Tue, 24 Nov 2015 13:24:15 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS2
+COMPONENTS= patch_15881312 
+BUILD_TIME= 12-9-2012 22:46:44 
+INSTALLED_TIME=Tue, 8 Dec 2015 14:11:23 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS2
+COMPONENTS= patch_15881312 
+BUILD_TIME= 12-9-2012 22:46:44 
+INSTALLED_TIME=Thu, 10 Dec 2015 15:15:37 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=SuspenseMgr
+VERSION=7.5.0
+COMPONENTS= "dm_suspense","cm_suspense", 
+BUILD_TIME= 10-31-2011 10:21:2 
+INSTALLED_TIME=Thu, 31 Dec 2015 10:27:34 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=SuspenseMgr
+VERSION=7.5.0
+COMPONENTS= "dm_suspense","cm_suspense", 
+BUILD_TIME= 10-31-2011 10:21:2 
+UNINSTALLED_TIME=Mon, 4 Jan 2016 16:56:29 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=SuspenseMgr
+VERSION=7.5.0
+COMPONENTS= "dm_suspense","cm_suspense", 
+BUILD_TIME= 10-31-2011 10:21:2 
+UNINSTALLED_TIME=Mon, 4 Jan 2016 16:59:18 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=SuspenseMgr
+VERSION=7.5.0
+COMPONENTS= "dm_suspense","cm_suspense", 
+BUILD_TIME= 10-31-2011 10:21:2 
+INSTALLED_TIME=Mon, 4 Jan 2016 17:02:09 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=WirelessSuite
+VERSION=7.5.0
+COMPONENTS= "number_manager","sim_manager","gsm","fm_prov_wireless","tcframework","dm_prov_telco","tcf_aaa","gsm_aaa","gprs_30","gprs_aaa","rrf","vouchermanager","inventory"  
+BUILD_TIME= 10-31-2011 10:14:54 
+UNINSTALLED_TIME=Tue, 19 Jan 2016 20:43:09 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=GSM_Mgr
+VERSION=7.5.0
+COMPONENTS= "gsm", 
+BUILD_TIME= 10-31-2011 10:11:16 
+INSTALLED_TIME=Tue, 19 Jan 2016 20:45:48 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=WebServicesMgr
+VERSION=7.5.0
+COMPONENTS= "Web_Services_Adapter" 
+BUILD_TIME= 10-31-2011 10:23:59 
+INSTALLED_TIME=Mon, 29 Feb 2016 21:29:06 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=Portal_SDK
+VERSION=7.5.0
+COMPONENTS= "SDK","Rogue Wave Libraries","Shared Objs","Common Install Scripts", 
+BUILD_TIME= 10-31-2011 10:13:7 
+INSTALLED_TIME=Fri, 16 Sep 2016 01:55:30 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=Portal_SDK
+VERSION=7.5.0
+COMPONENTS= "SDK","Rogue Wave Libraries","Shared Objs","Common Install Scripts", 
+BUILD_TIME= 10-31-2011 10:13:7 
+UNINSTALLED_TIME=Fri, 16 Sep 2016 07:30:22 +0530
+========================================================================
+Parsing script file create_BA.opc...
+
+ERROR: No cm:<pid> found in: D 2015-08-06 03:48:55.516  sacjoshi-linux  cm:10969.-158521632  fm_cust_commit_customer.c:313 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+
+
+Command line parameters:
+	running: create_BA.opc AACtestinan87 BUDAPW2-35 Patel Ajit (output = results/create_BA.AACtestinan87__BUDAPW2-35__Patel__Ajit.out)
+
+added sendproc file "/home/pin/portal/7.5/bin/opcoder.sendproc" field "PCM_OP_STEP_SEARCH" name "901-added-array"
+manish: opcode:PCM_OP_CUST_COMMIT_CUSTOMER
+
+
+Printing variables:
+===================
+
+%var1 = "999"		(1     PIN_FLD_ACCOUNT_OBJ           POID [0] 0.0.0.1 /account 3489766 0 .cmd .hash ba_account_id0 3)
+%var2 = "999"		(1       PIN_FLD_BILLINFO_OBJ    POID [0] 0.0.0.1 /billinfo 680667 0 .cmd .hash ba_billinfo_id0 3)
+
+Connecting to Infranet (cm pid: 222) ...done
+Sending flist#0...done
+
+
+opcode sent ===> PCM_OP_CUST_COMMIT_CUSTOMER flag sent ===> 0x0  on cm pid: 222
+string sent:
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+0 PIN_FLD_FLAGS           INT [0] 0
+0 PIN_FLD_PAYINFO       ARRAY [0] allocated 20, used 5
+1     PIN_FLD_INV_TYPE       ENUM [0] 2
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /payinfo/invoice -1 0
+1     PIN_FLD_PAYMENT_TERM   ENUM [0] 0
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+2         PIN_FLD_INV_INFO      ARRAY [0] allocated 20, used 7
+3             PIN_FLD_DELIVERY_PREFER   ENUM [0] 0
+3             PIN_FLD_NAME            STR [0] "WEBUI1"
+3             PIN_FLD_COUNTRY         STR [0] "IN"
+3             PIN_FLD_ZIP             STR [0] "96789"
+3             PIN_FLD_STATE           STR [0] "KA"
+3             PIN_FLD_CITY            STR [0] "Bengalore"
+3             PIN_FLD_ADDRESS         STR [0] "PSN-crescent 2"
+1     PIN_FLD_FLAGS           INT [0] 1
+1     PIN_FLD_PAY_TYPE       ENUM [0] 10001
+0 PIN_FLD_NAMEINFO      ARRAY [1] allocated 20, used 9
+1     PIN_FLD_TITLE           STR [0] "Mr."
+1     PIN_FLD_LAST_NAME       STR [0] "Patel"
+1     PIN_FLD_FIRST_NAME      STR [0] "Ajit"
+1     PIN_FLD_COUNTRY         STR [0] "IN"
+1     PIN_FLD_ZIP             STR [0] "96789"
+1     PIN_FLD_STATE           STR [0] "KA"
+1     PIN_FLD_CITY            STR [0] "Bengalore"
+1     PIN_FLD_ADDRESS         STR [0] "Bengalore"
+1     PIN_FLD_COMPANY         STR [0] "Bill_Account"
+1     PIN_FLD_PHONES        ARRAY [0] allocated 20, used 2
+2         PIN_FLD_TYPE           ENUM [0] 1
+2         PIN_FLD_PHONE           STR [0] "408-111-2225"
+1     PIN_FLD_PHONES        ARRAY [1] allocated 20, used 2
+2         PIN_FLD_TYPE           ENUM [0] 2
+2         PIN_FLD_PHONE           STR [0] "408-111-2226"
+0 PIN_FLD_BAL_INFO      ARRAY [0] allocated 20, used 3
+1     PIN_FLD_NAME            STR [0] "Account Level Balance Group"
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /balance_group -1 0
+1     PIN_FLD_BILLINFO      ARRAY [0]     NULL array ptr
+0 PIN_FLD_ACCTINFO      ARRAY [0] allocated 20, used 7
+1     PIN_FLD_ACCOUNT_NO      STR [0] "AACtestinan87"
+1     PIN_FLD_ACCESS_CODE1    STR [0] "0132"
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /account -1 0
+1     PIN_FLD_AAC_SOURCE      STR [0] "NON-CARRIER"
+1     PIN_FLD_AAC_VENDOR      STR [0] "Voice"
+1     PIN_FLD_BAL_INFO      ARRAY [0]     NULL array ptr
+1     PIN_FLD_CURRENCY        INT [0] 840
+1     PIN_FLD_BUSINESS_TYPE   ENUM [0] 2
+0 PIN_FLD_BILLINFO      ARRAY [0] allocated 20, used 8
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /billinfo -1 0
+1     PIN_FLD_BILLINFO_ID     STR [0] "BUDAPW2-35"
+1     PIN_FLD_BILL_WHEN       INT [0] 1
+1     PIN_FLD_PAYINFO       ARRAY [0]     NULL array ptr
+1     PIN_FLD_PAY_TYPE       ENUM [0] 10001
+1     PIN_FLD_BAL_INFO      ARRAY [0]     NULL array ptr
+1     PIN_FLD_CURRENCY        INT [0] 840
+
+expected flist:
+{******
+
+Printing contents of arrays (Expected flist):
+===========================
+
+OPCODE = code
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+0 PIN_FLD_NAMEINFO      ARRAY [1] allocated 20, used 9
+1     PIN_FLD_LAST_NAME       STR [0] "Patel" 
+1     PIN_FLD_FIRST_NAME      STR [0] "Ajit"
+0 PIN_FLD_ACCTINFO      ARRAY [0] allocated 20, used 7
+1     PIN_FLD_ACCOUNT_NO      STR [0] "AACtestinan87"
+0 PIN_FLD_BAL_INFO      ARRAY [0] allocated 20, used 3 
+1     PIN_FLD_ACCOUNT_OBJ           POID [0] 0.0.0.1 /account %var1 .cmd .hash ba_account_id0 3
+1       PIN_FLD_BILLINFO_OBJ    POID [0] 0.0.0.1 /billinfo %var2 .cmd .hash ba_billinfo_id0 3
+******}
+
+flist received:
+{******
+
+Printing contents of arrays (Actual flist):
+===========================
+
+OPCODE = PCM_OP_CUST_COMMIT_CUSTOMER
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+0 PIN_FLD_FLAGS           INT [0] 0
+0 PIN_FLD_PAYINFO       ARRAY [0] allocated 20, used 6
+1     PIN_FLD_INV_TYPE       ENUM [0] 2
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /payinfo/invoice 17825535 0
+1     PIN_FLD_PAYMENT_TERM   ENUM [0] 0
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+2         PIN_FLD_INV_INFO      ARRAY [0] allocated 20, used 7
+3             PIN_FLD_DELIVERY_PREFER   ENUM [0] 0
+3             PIN_FLD_NAME            STR [0] "WEBUI1"
+3             PIN_FLD_COUNTRY         STR [0] "IN"
+3             PIN_FLD_ZIP             STR [0] "96789"
+3             PIN_FLD_STATE           STR [0] "KA"
+3             PIN_FLD_CITY            STR [0] "Bengalore"
+3             PIN_FLD_ADDRESS         STR [0] "PSN-crescent 2"
+1     PIN_FLD_FLAGS           INT [0] 1
+1     PIN_FLD_PAY_TYPE       ENUM [0] 10001
+0 PIN_FLD_NAMEINFO      ARRAY [1] allocated 20, used 11
+1     PIN_FLD_TITLE           STR [0] "Mr."
+1     PIN_FLD_LAST_NAME       STR [0] "Patel"
+1     PIN_FLD_FIRST_NAME      STR [0] "Ajit"
+1     PIN_FLD_COUNTRY         STR [0] "IN"
+1     PIN_FLD_ZIP             STR [0] "96789"
+1     PIN_FLD_STATE           STR [0] "KA"
+1     PIN_FLD_CITY            STR [0] "Bengalore"
+1     PIN_FLD_ADDRESS         STR [0] "Bengalore"
+1     PIN_FLD_COMPANY         STR [0] "Bill_Account"
+1     PIN_FLD_PHONES        ARRAY [0] allocated 20, used 2
+2         PIN_FLD_TYPE           ENUM [0] 1
+2         PIN_FLD_PHONE           STR [0] "408-111-2225"
+1     PIN_FLD_PHONES        ARRAY [1] allocated 20, used 2
+2         PIN_FLD_TYPE           ENUM [0] 2
+2         PIN_FLD_PHONE           STR [0] "408-111-2226"
+0 PIN_FLD_BAL_INFO      ARRAY [0] allocated 20, used 5
+1     PIN_FLD_NAME            STR [0] "Account Level Balance Group"
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /balance_group 17822719 0
+1     PIN_FLD_BILLINFO_OBJ   POID [0] 0.0.0.1 /billinfo 17824255 0
+1     PIN_FLD_ACCOUNT_OBJ    POID [0] 0.0.0.1 /account 17824511 0
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.0  0 0
+0 PIN_FLD_ACCTINFO      ARRAY [0] allocated 20, used 8
+1     PIN_FLD_ACCOUNT_NO      STR [0] "AACtestinan87"
+1     PIN_FLD_ACCESS_CODE1    STR [0] "0132"
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /account -1 0
+1     PIN_FLD_AAC_SOURCE      STR [0] "NON-CARRIER"
+1     PIN_FLD_AAC_VENDOR      STR [0] "Voice"
+1     PIN_FLD_BAL_INFO      ARRAY [0]     NULL array ptr
+1     PIN_FLD_CURRENCY        INT [0] 840
+1     PIN_FLD_BUSINESS_TYPE   ENUM [0] 2
+0 PIN_FLD_BILLINFO      ARRAY [0] allocated 20, used 9
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /billinfo 17824255 0
+1     PIN_FLD_BILLINFO_ID     STR [0] "BUDAPW2-35"
+1     PIN_FLD_BILL_WHEN       INT [0] 1
+1     PIN_FLD_PAY_TYPE       ENUM [0] 10001
+1     PIN_FLD_CURRENCY        INT [0] 840
+1     PIN_FLD_CURRENCY_SECONDARY    INT [0] 0
+1     PIN_FLD_EFFECTIVE_T  TSTAMP [0] (1476383400) Fri 14 Oct 2016 12:00:00 AM IST
+1     PIN_FLD_PAYINFO_OBJ    POID [0] 0.0.0.1 /payinfo/invoice 17825535 0
+1     PIN_FLD_BAL_GRP_OBJ    POID [0] 0.0.0.1 /balance_group 17822719 0
+0 PIN_FLD_START_T      TSTAMP [0] (1476383400) Fri 14 Oct 2016 12:00:00 AM IST
+0 PIN_FLD_END_T        TSTAMP [0] (1476383400) Fri 14 Oct 2016 12:00:00 AM IST
+0 PIN_FLD_GROUP_INFO   SUBSTRUCT [0] allocated 0, used 0
+0 PIN_FLD_ACCOUNT_OBJ    POID [0] 0.0.0.1 /account 17824511 0
+0 PIN_FLD_HOST          ARRAY [1] allocated 20, used 2
+1     PIN_FLD_HOSTNAME        STR [0] "XXX.XXX.XXX.XXX"
+1     PIN_FLD_TYPE           ENUM [0] 1
+0 PIN_FLD_HOST          ARRAY [2] allocated 20, used 2
+1     PIN_FLD_HOSTNAME        STR [0] "XXX.XXX.XXX.XXX"
+1     PIN_FLD_TYPE           ENUM [0] 1
+0 PIN_FLD_HOST          ARRAY [3] allocated 20, used 3
+1     PIN_FLD_TYPE           ENUM [0] 2
+1     PIN_FLD_HOSTNAME        STR [0] "XXXXXXXXX.XXX"
+1     PIN_FLD_PORT            INT [0] 0
+0 PIN_FLD_HOST          ARRAY [4] allocated 20, used 2
+1     PIN_FLD_HOSTNAME        STR [0] "XXXX.XXX"
+1     PIN_FLD_TYPE           ENUM [0] 3
+0 PIN_FLD_HOST          ARRAY [5] allocated 20, used 2
+1     PIN_FLD_HOSTNAME        STR [0] "XXXX.XXX"
+1     PIN_FLD_TYPE           ENUM [0] 4
+0 PIN_FLD_HTTP_URL        STR [0] "XXXXXXXXXXXXXXX"
+0 PIN_FLD_SUPPORT_PHONE    STR [0] "XXXXXXXXXXXXXXX"
+******}
+
+MATCH TYPE : TOP_TO_BOTTOM  
+
+			 OPCODER REPORT 
+			 ============== 
+Opcode Test Summary: code                                Time: 10/14/2016-15:52:50  PIN Time: 10/14/2016-00:00:00  Warn
+------------------------------------------------------------------------------------------------------------------------
+Field Name                 |Data Type|Expected Value                       |Actual Value                         |Status
+========================================================================================================================
+0 PIN_FLD_POID             |POID     |[0] 0.0.0.1 /plan -1 0               |[0] 0.0.0.1 /plan -1 0               |Pass |      
+0 PIN_FLD_NAMEINFO         |ARRAY    |[1] allocated 20, used 9             |[1] allocated 20, used 11            |Warn |      
+1   PIN_FLD_LAST_NAME      |STR      |[0] "Patel23"                          |[0] "Patel"                          |Pass |      
+1   PIN_FLD_FIRST_NAME     |STR      |[0] "Ajit"                           |[0] "Ajit"                           |Pass |      
+1   PIN_FLD_TITLE          |STR      |         << Missing field >>         |[0] "Mr."                            |Warn |      
+1   PIN_FLD_COUNTRY        |STR      |         << Missing field >>         |[0] "IN"                             |Warn |      
+1   PIN_FLD_ZIP            |STR      |         << Missing field >>         |[0] "96789"                          |Warn |      
+1   PIN_FLD_STATE          |STR      |         << Missing field >>         |[0] "KA"                             |Warn |      
+1   PIN_FLD_CITY           |STR      |         << Missing field >>         |[0] "Bengalore"                      |Warn |      
+1   PIN_FLD_ADDRESS        |STR      |         << Missing field >>         |[0] "Bengalore"                      |Warn |      
+1   PIN_FLD_COMPANY        |STR      |         << Missing field >>         |[0] "Bill_Account"                   |Warn |      
+1   PIN_FLD_PHONES         |ARRAY    |         << Missing field >>         |[0] allocated 20, used 2             |Warn |      
+2     PIN_FLD_TYPE         |ENUM     |         << Missing field >>         |[0] 1                                |Warn |      
+2     PIN_FLD_PHONE        |STR      |         << Missing field >>         |[0] "408-111-2225"                   |Warn |      
+1   PIN_FLD_PHONES         |ARRAY    |         << Missing field >>         |[1] allocated 20, used 2             |Warn |      
+2     PIN_FLD_TYPE         |ENUM     |         << Missing field >>         |[0] 2                                |Warn |      
+2     PIN_FLD_PHONE        |STR      |         << Missing field >>         |[0] "408-111-2226"                   |Warn |      
+0 PIN_FLD_ACCTINFO         |ARRAY    |[0] allocated 20, used 7             |[0] allocated 20, used 8             |Warn |      
+1   PIN_FLD_ACCOUNT_NO     |STR      |[0] "AACtestinan87"                  |[0] "AACtestinan87"                  |Pass |      
+1   PIN_FLD_ACCESS_CODE1   |STR      |         << Missing field >>         |[0] "0132"                           |Warn |      
+1   PIN_FLD_POID           |POID     |         << Missing field >>         |[0] 0.0.0.1 /account -1 0            |Warn |      
+1   PIN_FLD_AAC_SOURCE     |STR      |         << Missing field >>         |[0] "NON-CARRIER"                    |Warn |      
+1   PIN_FLD_AAC_VENDOR     |STR      |         << Missing field >>         |[0] "Voice"                          |Warn |      
+1   PIN_FLD_BAL_INFO       |ARRAY    |         << Missing field >>         |[0]     NULL array ptr               |Warn |      
+1   PIN_FLD_CURRENCY       |INT      |         << Missing field >>         |[0] 840                              |Warn |      
+1   PIN_FLD_BUSINESS_TYPE  |ENUM     |         << Missing field >>         |[0] 2                                |Warn |      
+0 PIN_FLD_BAL_INFO         |ARRAY    |[0] allocated 20, used 3             |[0] allocated 20, used 5             |Warn |      
+1   PIN_FLD_ACCOUNT_OBJ    |POID     |[0] 0.0.0.1 /account 17824511        |[0] 0.0.0.1 /account 17824511 0      |Pass |      
+1   PIN_FLD_BILLINFO_OBJ   |POID     |[0] 0.0.0.1 /billinfo 17824255       |[0] 0.0.0.1 /billinfo 17824255 0     |Pass |      
+1   PIN_FLD_NAME           |STR      |         << Missing field >>         |[0] "Account Level Balance Group"    |Warn |      
+1   PIN_FLD_POID           |POID     |         << Missing field >>         |[0] 0.0.0.1 /balance_group 17822719 0|Warn |      
+1   PIN_FLD_SERVICE_OBJ    |POID     |         << Missing field >>         |[0] 0.0.0.0  0 0                     |Warn |      
+0 PIN_FLD_FLAGS            |INT      |         << Missing field >>         |[0] 0                                |Warn |      
+0 PIN_FLD_PAYINFO          |ARRAY    |         << Missing field >>         |[0] allocated 20, used 6             |Warn |      
+1   PIN_FLD_INV_TYPE       |ENUM     |         << Missing field >>         |[0] 2                                |Warn |      
+1   PIN_FLD_POID           |POID     |         << Missing field >>         |[0] 0.0.0.1 /payinfo/invoice 17825535|Warn |      
+1   PIN_FLD_PAYMENT_TERM   |ENUM     |         << Missing field >>         |[0] 0                                |Warn |      
+1   PIN_FLD_INHERITED_INFO |SUBSTRUCT|         << Missing field >>         |[0] allocated 20, used 1             |Warn |      
+2     PIN_FLD_INV_INFO     |ARRAY    |         << Missing field >>         |[0] allocated 20, used 7             |Warn |      
+3       PIN_FLD_DELIVERY_PR|ENUM     |         << Missing field >>         |[0] 0                                |Warn |      
+3       PIN_FLD_NAME       |STR      |         << Missing field >>         |[0] "WEBUI1"                         |Warn |      
+3       PIN_FLD_COUNTRY    |STR      |         << Missing field >>         |[0] "IN"                             |Warn |      
+3       PIN_FLD_ZIP        |STR      |         << Missing field >>         |[0] "96789"                          |Warn |      
+3       PIN_FLD_STATE      |STR      |         << Missing field >>         |[0] "KA"                             |Warn |      
+3       PIN_FLD_CITY       |STR      |         << Missing field >>         |[0] "Bengalore"                      |Warn |      
+3       PIN_FLD_ADDRESS    |STR      |         << Missing field >>         |[0] "PSN-crescent 2"                 |Warn |      
+1   PIN_FLD_FLAGS          |INT      |         << Missing field >>         |[0] 1                                |Warn |      
+1   PIN_FLD_PAY_TYPE       |ENUM     |         << Missing field >>         |[0] 10001                            |Warn |      
+0 PIN_FLD_BILLINFO         |ARRAY    |         << Missing field >>         |[0] allocated 20, used 9             |Warn |      
+1   PIN_FLD_POID           |POID     |         << Missing field >>         |[0] 0.0.0.1 /billinfo 17824255 0     |Warn |      
+1   PIN_FLD_BILLINFO_ID    |STR      |         << Missing field >>         |[0] "BUDAPW2-35"                     |Warn |      
+1   PIN_FLD_BILL_WHEN      |INT      |         << Missing field >>         |[0] 1                                |Warn |      
+1   PIN_FLD_PAY_TYPE       |ENUM     |         << Missing field >>         |[0] 10001                            |Warn |      
+1   PIN_FLD_CURRENCY       |INT      |         << Missing field >>         |[0] 840                              |Warn |      
+1   PIN_FLD_CURRENCY_SECOND|INT      |         << Missing field >>         |[0] 0                                |Warn |      
+1   PIN_FLD_EFFECTIVE_T    |TSTAMP   |         << Missing field >>         |[0] (1476383400) Fri 14 Oct 2016 12:0|Warn |      
+1   PIN_FLD_PAYINFO_OBJ    |POID     |         << Missing field >>         |[0] 0.0.0.1 /payinfo/invoice 17825535|Warn |      
+1   PIN_FLD_BAL_GRP_OBJ    |POID     |         << Missing field >>         |[0] 0.0.0.1 /balance_group 17822719 0|Warn |      
+0 PIN_FLD_START_T          |TSTAMP   |         << Missing field >>         |[0] (1476383400) Fri 14 Oct 2016 12:0|Warn |      
+0 PIN_FLD_END_T            |TSTAMP   |         << Missing field >>         |[0] (1476383400) Fri 14 Oct 2016 12:0|Warn |      
+0 PIN_FLD_GROUP_INFO       |SUBSTRUCT|         << Missing field >>         |[0] allocated 0, used 0              |Warn |      
+0 PIN_FLD_ACCOUNT_OBJ      |POID     |         << Missing field >>         |[0] 0.0.0.1 /account 17824511 0      |Warn |      
+0 PIN_FLD_HOST             |ARRAY    |         << Missing field >>         |[1] allocated 20, used 2             |Warn |      
+1   PIN_FLD_HOSTNAME       |STR      |         << Missing field >>         |[0] "XXX.XXX.XXX.XXX"                |Warn |      
+1   PIN_FLD_TYPE           |ENUM     |         << Missing field >>         |[0] 1                                |Warn |      
+0 PIN_FLD_HOST             |ARRAY    |         << Missing field >>         |[2] allocated 20, used 2             |Warn |      
+1   PIN_FLD_HOSTNAME       |STR      |         << Missing field >>         |[0] "XXX.XXX.XXX.XXX"                |Warn |      
+1   PIN_FLD_TYPE           |ENUM     |         << Missing field >>         |[0] 1                                |Warn |      
+0 PIN_FLD_HOST             |ARRAY    |         << Missing field >>         |[3] allocated 20, used 3             |Warn |      
+1   PIN_FLD_TYPE           |ENUM     |         << Missing field >>         |[0] 2                                |Warn |      
+1   PIN_FLD_HOSTNAME       |STR      |         << Missing field >>         |[0] "XXXXXXXXX.XXX"                  |Warn |      
+1   PIN_FLD_PORT           |INT      |         << Missing field >>         |[0] 0                                |Warn |      
+0 PIN_FLD_HOST             |ARRAY    |         << Missing field >>         |[4] allocated 20, used 2             |Warn |      
+1   PIN_FLD_HOSTNAME       |STR      |         << Missing field >>         |[0] "XXXX.XXX"                       |Warn |      
+1   PIN_FLD_TYPE           |ENUM     |         << Missing field >>         |[0] 3                                |Warn |      
+0 PIN_FLD_HOST             |ARRAY    |         << Missing field >>         |[5] allocated 20, used 2             |Warn |      
+1   PIN_FLD_HOSTNAME       |STR      |         << Missing field >>         |[0] "XXXX.XXX"                       |Warn |      
+1   PIN_FLD_TYPE           |ENUM     |         << Missing field >>         |[0] 4                                |Warn |      
+0 PIN_FLD_HTTP_URL         |STR      |         << Missing field >>         |[0] "XXXXXXXXXXXXXXX"                |Warn |      
+0 PIN_FLD_SUPPORT_PHONE    |STR      |         << Missing field >>         |[0] "XXXXXXXXXXXXXXX"                |Warn |      
+========================================================================================================================
+done
+
+Disconnected from Infranet (cm pid: 222)
+
+Closed CMs: 222
+
+------------------------------------------------------------------------------------------------------------------------
+PIN Time: 10/14/2016-00:00:00,  Time: 10/14/2016-15:52:50, create_BA.opc Pass # 
+------------------------------------------------------------------------------------------------------------------------
+
+** Public Hash:
+"ba_billinfo_id0" = "17824255"    <<NEW>>
+"ba_account_id0" = "17824511"    <<NEW>>
+"op_private" = "opcoder parameter hash"    <<NEW>>
+"BA_FN" = "Ajit"    <<NEW>>
+"BA_ACCOUNT_NO" = "AACtestinan87"    <<NEW>>
+"BA_BILLINFO_ID" = "BUDAPW2-35"    <<NEW>>
+"BA_LN" = "Patel"    <<NEW>>
+** (end) Public Hash
+
+
+** (end) opcoder

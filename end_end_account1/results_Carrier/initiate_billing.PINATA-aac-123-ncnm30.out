@@ -1,0 +1,624 @@
+** opcoder 7.3-77  ( 27-Sep-05.15:31:11 /main/QEDTools_Integration/clark_PlatformApollo/2 )
+
+Infranet Version: 
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=Portal_Base
+VERSION=7.5.0
+COMPONENTS= "Portal Base Install Scripts","Rogue Wave Libraries","Common Database Scripts","batch_controller","pin_billd","pin_cfg_bpdump","pin_inv","cmmp","cm_proxy","sample","dm_email","pin_export_price","config_export","credit_control","sox_unlock_service","adu","infmgr","infmgr_cli","dm_invoice","DM Feature","dm_oracle","bip_udf","formatter","null","nmgr","pin_subscription","testnap","uei","cm","Java PCM Files","Shared Objects for Communication","Shared Perl Modules","load_config","storable_class_to_xml","Common Install Scripts", 
+BUILD_TIME= 10-31-2011 10:17:10 
+INSTALLED_TIME=Fri, 19 Sep 2014 18:06:37 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=EAI_FrameworkMgr
+VERSION=7.5.0
+COMPONENTS= "cm_eai","eai_js","dm_eai", 
+BUILD_TIME= 10-31-2011 10:8:15 
+INSTALLED_TIME=Fri, 19 Sep 2014 18:49:29 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=DM_AQ
+VERSION=7.5.0
+COMPONENTS= "dm_aq", 
+BUILD_TIME= 10-31-2011 10:8:43 
+INSTALLED_TIME=Mon, 22 Sep 2014 12:52:56 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=VertexMgr
+VERSION=7.5.0
+COMPONENTS= "dm_vertex", 
+BUILD_TIME= 10-31-2011 10:22:42 
+INSTALLED_TIME=Mon, 22 Sep 2014 15:31:14 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=CollectionsMgr
+VERSION=7.5.0
+COMPONENTS= "pin_collections", 
+BUILD_TIME= 10-31-2011 10:6:31 
+INSTALLED_TIME=Mon, 22 Sep 2014 15:33:44 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=AccountSynchTool
+VERSION=7.5.0
+COMPONENTS= "dm_ifw_sync","cm_acctsync", 
+BUILD_TIME= 10-31-2011 10:6:3 
+INSTALLED_TIME=Mon, 22 Sep 2014 15:49:43 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=BRM_JCA_Adapter
+VERSION=7.5.0
+COMPONENTS= "jca_adapter","brm_specs", 
+BUILD_TIME= 10-31-2011 10:11:45 
+INSTALLED_TIME=Mon, 22 Sep 2014 16:19:15 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS2
+COMPONENTS= patch_14334024 
+BUILD_TIME= 8-20-2012 23:2:25 
+INSTALLED_TIME=Fri, 26 Sep 2014 15:05:07 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=PortalBase_Upgrade_74_75
+VERSION=7.5PS2
+COMPONENTS= PortalBase Upgrade_74_75 
+BUILD_TIME= 8-20-2012 17:53:19 
+INSTALLED_TIME=Fri, 26 Sep 2014 15:07:04 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=RatedEventLoader
+VERSION=7.5.0
+COMPONENTS= "rel","rel_tt","eet", 
+BUILD_TIME= 10-31-2011 10:19:23 
+INSTALLED_TIME=Tue, 3 Mar 2015 15:52:55 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=WirelessSuite
+VERSION=7.5.0
+COMPONENTS= "number_manager","sim_manager","gsm","fm_prov_wireless","tcframework","dm_prov_telco","tcf_aaa","gsm_aaa","gprs_30","gprs_aaa","rrf","vouchermanager","inventory"  
+BUILD_TIME= 10-31-2011 10:14:54 
+INSTALLED_TIME=Mon, 9 Mar 2015 14:30:13 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=WirelessSuite
+VERSION=7.5.0
+COMPONENTS= "number_manager","sim_manager","gsm","fm_prov_wireless","tcframework","dm_prov_telco","tcf_aaa","gsm_aaa","gprs_30","gprs_aaa","rrf","vouchermanager","inventory"  
+BUILD_TIME= 10-31-2011 10:14:54 
+UNINSTALLED_TIME=Mon, 9 Mar 2015 15:32:04 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=GSM_Mgr
+VERSION=7.5.0
+COMPONENTS= "gsm","fm_prov_wireless","tcframework","dm_prov_telco", 
+BUILD_TIME= 10-31-2011 10:11:16 
+INSTALLED_TIME=Mon, 9 Mar 2015 15:39:43 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=GSM_Mgr
+VERSION=7.5.0
+COMPONENTS= "gsm","fm_prov_wireless","tcframework","dm_prov_telco", 
+BUILD_TIME= 10-31-2011 10:11:16 
+UNINSTALLED_TIME=Fri, 13 Mar 2015 10:18:54 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=WirelessSuite
+VERSION=7.5.0
+COMPONENTS= "number_manager","sim_manager","gsm","fm_prov_wireless","tcframework","dm_prov_telco","tcf_aaa","gsm_aaa","gprs_30","gprs_aaa","rrf","vouchermanager","inventory"  
+BUILD_TIME= 10-31-2011 10:14:54 
+INSTALLED_TIME=Fri, 13 Mar 2015 10:21:39 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS2
+COMPONENTS= patch_15881312 
+BUILD_TIME= 12-9-2012 22:46:44 
+INSTALLED_TIME=Thu, 9 Apr 2015 21:00:28 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=PaymentechMgr
+VERSION=7.5.0
+COMPONENTS= "dm_fusa", 
+BUILD_TIME= 10-31-2011 10:16:5 
+INSTALLED_TIME=Tue, 21 Apr 2015 21:21:24 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=ConversionMgr
+VERSION=7.5.0
+COMPONENTS= "cmt", 
+BUILD_TIME= 10-31-2011 10:7:41 
+INSTALLED_TIME=Wed, 22 Apr 2015 23:49:35 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS6
+COMPONENTS= patch_19343220 
+BUILD_TIME= 8-4-2014 0:46:48 
+INSTALLED_TIME=Wed, 12 Aug 2015 18:24:37 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=Opframe
+VERSION=7.4
+COMPONENTS= "" 
+BUILD_TIME= ERROR: product bean cmpBuildTime does not exist 
+INSTALLED_TIME=Tue, 8 Sep 2015 13:45:22 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=Opframe
+VERSION=7.4
+COMPONENTS= "null", 
+BUILD_TIME= ERROR: product bean cmpBuildTime does not exist 
+UNINSTALLED_TIME=Tue, 8 Sep 2015 14:24:57 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=Opframe
+VERSION=7.4
+COMPONENTS= "" 
+BUILD_TIME= ERROR: product bean cmpBuildTime does not exist 
+INSTALLED_TIME=Tue, 8 Sep 2015 14:26:30 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS6
+COMPONENTS= patch_19343220 
+BUILD_TIME= 8-4-2014 0:46:48 
+UNINSTALLED_TIME=Mon, 21 Sep 2015 13:57:59 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=RatedEventLoader
+VERSION=7.5.0
+COMPONENTS= "rel","rel_tt","eet", 
+BUILD_TIME= 10-31-2011 10:19:23 
+INSTALLED_TIME=Fri, 13 Nov 2015 12:54:05 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=GSM_Mgr
+VERSION=7.5.0
+COMPONENTS= "gsm", 
+BUILD_TIME= 10-31-2011 10:11:16 
+INSTALLED_TIME=Wed, 18 Nov 2015 16:31:09 +0530
+========================================================================
+========================================================================
+==================================UNINSTALLED=============================
+
+PRODUCT_NAME=GSM_Mgr
+VERSION=7.5.0
+COMPONENTS= "gsm", 
+BUILD_TIME= 10-31-2011 10:11:16 
+UNINSTALLED_TIME=Wed, 18 Nov 2015 16:46:34 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=TelcoFrameworkMgr
+VERSION=7.5.0
+COMPONENTS=  
+BUILD_TIME= 10-31-2011 10:21:50 
+INSTALLED_TIME=Tue, 24 Nov 2015 13:24:15 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS2
+COMPONENTS= patch_15881312 
+BUILD_TIME= 12-9-2012 22:46:44 
+INSTALLED_TIME=Tue, 8 Dec 2015 14:11:23 +0530
+========================================================================
+========================================================================
+==================================INSTALLED=============================
+
+PRODUCT_NAME=patch_Portal_Base
+VERSION=7.5PS2
+COMPONENTS= patch_15881312 
+BUILD_TIME= 12-9-2012 22:46:44 
+INSTALLED_TIME=Thu, 10 Dec 2015 15:15:37 +0530
+========================================================================
+
+** Public Hash:
+"op_private" = "opcoder parameter hash"
+"sa_billinfo_id0" = "4039096"
+"SA_BILLINFO_ID" = "2d33k7"
+"sa_bal_grp_id0" = "4042168"
+"/home/pin/portal/7.5/bin/" = ""
+"sa_account_id0" = "4039352"
+"ba_billinfo_id0" = "4042296"
+"ba_account_id0" = "4041784"
+"BA_ACCOUNT_NO" = "AACtesting28"
+"BA_BILLINFO_ID" = "BULCA1-07"
+"SA_ACCOUNT_NO" = "AACtesting29"
+** (end) Public Hash
+
+Parsing script file initiate_billing.opc...
+
+ERROR: No cm:<pid> found in: D 2015-08-06 03:48:55.516  sacjoshi-linux  cm:10969.-158521632  fm_cust_commit_customer.c:313 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+
+
+Command line parameters:
+	running: initiate_billing.opc PINATA-aac-123-ncnm30 (output = results/initiate_billing.PINATA-aac-123-ncnm30.out)
+
+added sendproc file "/home/pin/portal/7.5/bin/opcoder.sendproc" field "PCM_OP_STEP_SEARCH" name "901-added-array"
+manish: opcode:PCM_OP_CUST_MODIFY_CUSTOMER
+
+
+Printing variables:
+===================
+
+%var1 = "999"		(1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1 /service/circuit/wavelength/install 11727863 0 .cmd .hash service_install_wavelength_id0 3)
+%var2 = "999"		(3             PIN_FLD_OFFERING_OBJ   POID [0] 0.0.0.1 /purchased_product 1958589 0 .cmd .hash purchased_product_id0 3)
+
+Connecting to Infranet (cm pid: 222) ...done
+Sending flist#0...done
+
+
+opcode sent ===> PCM_OP_CUST_MODIFY_CUSTOMER flag sent ===> 0x0  on cm pid: 222
+string sent:
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+0 PIN_FLD_ACCOUNT_OBJ    POID [0] 0.0.0.1 /account 4039352 0
+0 PIN_FLD_SERVICES      ARRAY [0] allocated 20, used 7
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1   /service/circuit/mngd_security/install -1 0
+1     PIN_FLD_BAL_GRP_OBJ    POID [0] 0.0.0.1 /balance_group 4042168 0
+1     PIN_FLD_PASSWD_CLEAR    STR [0] "XXXX"
+1     PIN_FLD_LOGIN           STR [0] "PINATA-aac-123-ncnm30_one_time"
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+2         CHT_FLD_CIRCUIT_INFO SUBSTRUCT [0] allocated 20, used 9
+3             CHT_FLD_BANDWIDTH       STR [0] "1M"
+3             CHT_FLD_CONTRACT_END_DATE TSTAMP [0] (1458709200) Wed Mar 23 00:00:00 2016
+3             CHT_FLD_CIRCUIT_TYPE    STR [0] "CELLBACKHAUL"
+3             PIN_FLD_PO_ORDER_NO     STR [0] ""
+3             CHT_FLD_CLASSOF_SERVICE    STR [0] ""
+3             CHT_FLD_NODE_ID         STR [0] ""
+3             CHT_FLD_E2E_CONNECT_ID    STR [0] ""
+3             CHT_FLD_SERVICE_ORDER_NO    STR [0] ""
+3             CHT_FLD_CUST_CIRCUIT_ID    STR [0] ""
+1     PIN_FLD_DEAL_INFO    SUBSTRUCT [0] allocated 20, used 5
+2         PIN_FLD_PRODUCTS      ARRAY [0] allocated 20, used 11
+3             PIN_FLD_PURCHASE_FEE_AMT DECIMAL [0] 500
+3             PIN_FLD_QUANTITY     DECIMAL [0] 1
+3             PIN_FLD_PURCHASE_START_UNIT    INT [0] 2
+3             PIN_FLD_PRODUCT_OBJ    POID [0] 0.0.0.1 /product 1007867 0
+3             PIN_FLD_STATUS         ENUM [0] 1
+3             PIN_FLD_STATUS_FLAGS    INT [0] 16777216
+3             PIN_FLD_USAGE_START_OFFSET    INT [0] 1
+3             PIN_FLD_USAGE_START_UNIT    INT [0] 2
+3             PIN_FLD_CYCLE_START_OFFSET    INT [0] 1
+3             PIN_FLD_CYCLE_START_UNIT    INT [0] 2
+3             PIN_FLD_PURCHASE_START_OFFSET    INT [0] 1
+2         PIN_FLD_NAME            STR [0] ""
+2         PIN_FLD_POID           POID [0] 0.0.0.1 /deal -1 0
+2         PIN_FLD_END_T        TSTAMP [0] (0) <null>
+2         PIN_FLD_START_T      TSTAMP [0] (0) <null>
+1     PIN_FLD_ALIAS_LIST    ARRAY [1] allocated 20, used 1
+2         PIN_FLD_NAME            STR [0] "PINATA-aac-123-ncnm30_one_time"
+0 PIN_FLD_SERVICES      ARRAY [1] allocated 20, used 7
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1 /service/circuit/mngd_security -1 0
+1     PIN_FLD_BAL_GRP_OBJ    POID [0] 0.0.0.1 /balance_group 4042168 0
+1     PIN_FLD_PASSWD_CLEAR    STR [0] "XXXX"
+1     PIN_FLD_LOGIN           STR [0] "PINATA-aac-123-ncnm30_cycle_fwd"
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+2         CHT_FLD_CIRCUIT_INFO SUBSTRUCT [0] allocated 20, used 9
+3             CHT_FLD_BANDWIDTH       STR [0] "1M"
+3             CHT_FLD_CONTRACT_END_DATE TSTAMP [0] (1458709200) Wed Mar 23 00:00:00 2016
+3             CHT_FLD_CIRCUIT_TYPE    STR [0] "LANDLINE"
+3             PIN_FLD_PO_ORDER_NO     STR [0] ""
+3             CHT_FLD_CLASSOF_SERVICE    STR [0] ""
+3             CHT_FLD_NODE_ID         STR [0] ""
+3             CHT_FLD_E2E_CONNECT_ID    STR [0] ""
+3             CHT_FLD_SERVICE_ORDER_NO    STR [0] ""
+3             CHT_FLD_CUST_CIRCUIT_ID    STR [0] ""
+1     PIN_FLD_DEAL_INFO    SUBSTRUCT [0] allocated 20, used 5
+2         PIN_FLD_PRODUCTS      ARRAY [0] allocated 20, used 11
+3             PIN_FLD_CYCLE_FEE_AMT DECIMAL [0] 400
+3             PIN_FLD_QUANTITY     DECIMAL [0] 1
+3             PIN_FLD_PURCHASE_START_UNIT    INT [0] 2
+3             PIN_FLD_PRODUCT_OBJ    POID [0] 0.0.0.1 /product 1011451 0
+3             PIN_FLD_STATUS         ENUM [0] 1
+3             PIN_FLD_STATUS_FLAGS    INT [0] 33554432
+3             PIN_FLD_USAGE_START_OFFSET    INT [0] 1
+3             PIN_FLD_USAGE_START_UNIT    INT [0] 2
+3             PIN_FLD_CYCLE_START_OFFSET    INT [0] 1
+3             PIN_FLD_CYCLE_START_UNIT    INT [0] 2
+3             PIN_FLD_PURCHASE_START_OFFSET    INT [0] 1
+2         PIN_FLD_NAME            STR [0] ""
+2         PIN_FLD_POID           POID [0] 0.0.0.1 /deal -1 0
+2         PIN_FLD_END_T        TSTAMP [0] (0) <null>
+2         PIN_FLD_START_T      TSTAMP [0] (0) <null>
+1     PIN_FLD_ALIAS_LIST    ARRAY [1] allocated 20, used 1
+2         PIN_FLD_NAME            STR [0] "PINATA-aac-123-ncnm30_cycle_fwd"
+0 PIN_FLD_BAL_INFO      ARRAY [0] allocated 20, used 2
+1     PIN_FLD_BILLINFO_OBJ   POID [0] 0.0.0.1 /billinfo 4039096 0
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /balance_group 4042168 0
+
+expected flist:
+{******
+
+Printing contents of arrays (Expected flist):
+===========================
+
+OPCODE = code
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+0 PIN_FLD_SERVICES      ARRAY [0] allocated 20, used 8
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1 /service/circuit/wavelength/install %var1 .cmd .hash service_install_wavelength_id0 3
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+1     PIN_FLD_DEAL_INFO    SUBSTRUCT [0] allocated 20, used 6
+2         PIN_FLD_PRODUCTS      ARRAY [0] allocated 20, used 13
+3             PIN_FLD_OFFERING_OBJ   POID [0] 0.0.0.1 /purchased_product %var2 .cmd .hash purchased_product_id0 3
+******}
+
+flist received:
+{******
+
+Printing contents of arrays (Actual flist):
+===========================
+
+OPCODE = PCM_OP_CUST_MODIFY_CUSTOMER
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+0 PIN_FLD_ACCOUNT_OBJ    POID [0] 0.0.0.1 /account 4039352 0
+0 PIN_FLD_SERVICES      ARRAY [0] allocated 20, used 8
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1 /service/circuit/mngd_security/install 4037220 0
+1     PIN_FLD_BAL_GRP_OBJ    POID [0] 0.0.0.1 /balance_group 4042168 0
+1     PIN_FLD_PASSWD_CLEAR    STR [0] "XXXX"
+1     PIN_FLD_LOGIN           STR [0] "PINATA-aac-123-ncnm30_one_time"
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+2         CHT_FLD_CIRCUIT_INFO SUBSTRUCT [0] allocated 20, used 9
+3             CHT_FLD_BANDWIDTH       STR [0] "1M"
+3             CHT_FLD_CONTRACT_END_DATE TSTAMP [0] (1458709200) Wed 23 Mar 2016 10:30:00 AM IST
+3             CHT_FLD_CIRCUIT_TYPE    STR [0] "CELLBACKHAUL"
+3             PIN_FLD_PO_ORDER_NO     STR [0] ""
+3             CHT_FLD_CLASSOF_SERVICE    STR [0] ""
+3             CHT_FLD_NODE_ID         STR [0] ""
+3             CHT_FLD_E2E_CONNECT_ID    STR [0] ""
+3             CHT_FLD_SERVICE_ORDER_NO    STR [0] ""
+3             CHT_FLD_CUST_CIRCUIT_ID    STR [0] ""
+1     PIN_FLD_DEAL_INFO    SUBSTRUCT [0] allocated 20, used 6
+2         PIN_FLD_PRODUCTS      ARRAY [0] allocated 20, used 13
+3             PIN_FLD_PURCHASE_FEE_AMT DECIMAL [0] 500
+3             PIN_FLD_QUANTITY     DECIMAL [0] 1
+3             PIN_FLD_PURCHASE_START_UNIT    INT [0] 2
+3             PIN_FLD_PRODUCT_OBJ    POID [0] 0.0.0.1 /product 1007867 0
+3             PIN_FLD_STATUS         ENUM [0] 1
+3             PIN_FLD_STATUS_FLAGS    INT [0] 16777216
+3             PIN_FLD_USAGE_START_OFFSET    INT [0] 1
+3             PIN_FLD_USAGE_START_UNIT    INT [0] 2
+3             PIN_FLD_CYCLE_START_OFFSET    INT [0] 1
+3             PIN_FLD_CYCLE_START_UNIT    INT [0] 2
+3             PIN_FLD_PURCHASE_START_OFFSET    INT [0] 1
+3             PIN_FLD_OFFERING_OBJ   POID [0] 0.0.0.1 /purchased_product 4037988 0
+3             PIN_FLD_PACKAGE_ID      INT [0] 938
+2         PIN_FLD_NAME            STR [0] ""
+2         PIN_FLD_POID           POID [0] 0.0.0.1 /deal -1 0
+2         PIN_FLD_END_T        TSTAMP [0] (0) <null>
+2         PIN_FLD_START_T      TSTAMP [0] (0) <null>
+2         PIN_FLD_PLAN_OBJ       POID [0] 0.0.0.1 /plan -1 0
+1     PIN_FLD_ALIAS_LIST    ARRAY [1] allocated 20, used 1
+2         PIN_FLD_NAME            STR [0] "PINATA-aac-123-ncnm30_one_time"
+1     PIN_FLD_BILLINFO_OBJ   POID [0] 0.0.0.1 /billinfo 4039096 0
+0 PIN_FLD_SERVICES      ARRAY [1] allocated 20, used 8
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1 /service/circuit/mngd_security 4035300 0
+1     PIN_FLD_BAL_GRP_OBJ    POID [0] 0.0.0.1 /balance_group 4042168 0
+1     PIN_FLD_PASSWD_CLEAR    STR [0] "XXXX"
+1     PIN_FLD_LOGIN           STR [0] "PINATA-aac-123-ncnm30_cycle_fwd"
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+2         CHT_FLD_CIRCUIT_INFO SUBSTRUCT [0] allocated 20, used 9
+3             CHT_FLD_BANDWIDTH       STR [0] "1M"
+3             CHT_FLD_CONTRACT_END_DATE TSTAMP [0] (1458709200) Wed 23 Mar 2016 10:30:00 AM IST
+3             CHT_FLD_CIRCUIT_TYPE    STR [0] "LANDLINE"
+3             PIN_FLD_PO_ORDER_NO     STR [0] ""
+3             CHT_FLD_CLASSOF_SERVICE    STR [0] ""
+3             CHT_FLD_NODE_ID         STR [0] ""
+3             CHT_FLD_E2E_CONNECT_ID    STR [0] ""
+3             CHT_FLD_SERVICE_ORDER_NO    STR [0] ""
+3             CHT_FLD_CUST_CIRCUIT_ID    STR [0] ""
+1     PIN_FLD_DEAL_INFO    SUBSTRUCT [0] allocated 20, used 6
+2         PIN_FLD_PRODUCTS      ARRAY [0] allocated 20, used 13
+3             PIN_FLD_CYCLE_FEE_AMT DECIMAL [0] 400
+3             PIN_FLD_QUANTITY     DECIMAL [0] 1
+3             PIN_FLD_PURCHASE_START_UNIT    INT [0] 2
+3             PIN_FLD_PRODUCT_OBJ    POID [0] 0.0.0.1 /product 1011451 0
+3             PIN_FLD_STATUS         ENUM [0] 1
+3             PIN_FLD_STATUS_FLAGS    INT [0] 33554432
+3             PIN_FLD_USAGE_START_OFFSET    INT [0] 1
+3             PIN_FLD_USAGE_START_UNIT    INT [0] 2
+3             PIN_FLD_CYCLE_START_OFFSET    INT [0] 1
+3             PIN_FLD_CYCLE_START_UNIT    INT [0] 2
+3             PIN_FLD_PURCHASE_START_OFFSET    INT [0] 1
+3             PIN_FLD_OFFERING_OBJ   POID [0] 0.0.0.1 /purchased_product 4036068 0
+3             PIN_FLD_PACKAGE_ID      INT [0] 938
+2         PIN_FLD_NAME            STR [0] ""
+2         PIN_FLD_POID           POID [0] 0.0.0.1 /deal -1 0
+2         PIN_FLD_END_T        TSTAMP [0] (0) <null>
+2         PIN_FLD_START_T      TSTAMP [0] (0) <null>
+2         PIN_FLD_PLAN_OBJ       POID [0] 0.0.0.1 /plan -1 0
+1     PIN_FLD_ALIAS_LIST    ARRAY [1] allocated 20, used 1
+2         PIN_FLD_NAME            STR [0] "PINATA-aac-123-ncnm30_cycle_fwd"
+1     PIN_FLD_BILLINFO_OBJ   POID [0] 0.0.0.1 /billinfo 4039096 0
+0 PIN_FLD_BAL_INFO      ARRAY [0] allocated 20, used 3
+1     PIN_FLD_BILLINFO_OBJ   POID [0] 0.0.0.1 /billinfo 4039096 0
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /balance_group 4042168 0
+1     PIN_FLD_ACCOUNT_OBJ    POID [0] 0.0.0.1 /account 4039352 0
+0 PIN_FLD_PROGRAM_NAME    STR [0] "Automatic Customer Modification"
+0 PIN_FLD_START_T      TSTAMP [0] (1451327400) Tue 29 Dec 2015 12:00:00 AM IST
+0 PIN_FLD_END_T        TSTAMP [0] (1451327400) Tue 29 Dec 2015 12:00:00 AM IST
+0 PIN_FLD_ACCTINFO      ARRAY [0] allocated 20, used 3
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /account 4039352 8
+1     PIN_FLD_CURRENCY        INT [0] 840
+1     PIN_FLD_CURRENCY_SECONDARY    INT [0] 0
+******}
+
+MATCH TYPE : TOP_TO_BOTTOM  
+
+			 OPCODER REPORT 
+			 ============== 
+Opcode Test Summary: code                                Time: 12/29/2015-19:25:09  PIN Time: 12/29/2015-00:00:01  Warn
+------------------------------------------------------------------------------------------------------------------------
+Field Name                 |Data Type|Expected Value                       |Actual Value                         |Status
+========================================================================================================================
+0 PIN_FLD_POID             |POID     |[0] 0.0.0.1 /plan -1 0               |[0] 0.0.0.1 /plan -1 0               |Pass |      
+0 PIN_FLD_SERVICES         |ARRAY    |[0] allocated 20, used 8             |[0] allocated 20, used 8             |Pass |      
+1   PIN_FLD_SERVICE_OBJ    |POID     |[0] 0.0.0.1 /service/circuit/waveleng|[0] 0.0.0.1 /service/circuit/mngd_sec|Warn |      
+1   PIN_FLD_INHERITED_INFO |SUBSTRUCT|[0] allocated 20, used 1             |[0] allocated 20, used 1             |Pass |      
+2     CHT_FLD_CIRCUIT_INFO |SUBSTRUCT|         << Missing field >>         |[0] allocated 20, used 9             |Warn |      
+3       CHT_FLD_BANDWIDTH  |STR      |         << Missing field >>         |[0] "1M"                             |Warn |      
+3       CHT_FLD_CONTRACT_EN|TSTAMP   |         << Missing field >>         |[0] (1458709200) Wed 23 Mar 2016 10:3|Warn |      
+3       CHT_FLD_CIRCUIT_TYP|STR      |         << Missing field >>         |[0] "CELLBACKHAUL"                   |Warn |      
+3       PIN_FLD_PO_ORDER_NO|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_CLASSOF_SER|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_NODE_ID    |STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_E2E_CONNECT|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_SERVICE_ORD|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_CUST_CIRCUI|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+1   PIN_FLD_DEAL_INFO      |SUBSTRUCT|[0] allocated 20, used 6             |[0] allocated 20, used 6             |Pass |      
+2     PIN_FLD_PRODUCTS     |ARRAY    |[0] allocated 20, used 13            |[0] allocated 20, used 13            |Pass |      
+3       PIN_FLD_OFFERING_OB|POID     |[0] 0.0.0.1 /purchased_product 403798|[0] 0.0.0.1 /purchased_product 403798|Pass |      
+3       PIN_FLD_PURCHASE_FE|DECIMAL  |         << Missing field >>         |[0] 500                              |Warn |      
+3       PIN_FLD_QUANTITY   |DECIMAL  |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_PURCHASE_ST|INT      |         << Missing field >>         |[0] 2                                |Warn |      
+3       PIN_FLD_PRODUCT_OBJ|POID     |         << Missing field >>         |[0] 0.0.0.1 /product 1007867 0       |Warn |      
+3       PIN_FLD_STATUS     |ENUM     |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_STATUS_FLAG|INT      |         << Missing field >>         |[0] 16777216                         |Warn |      
+3       PIN_FLD_USAGE_START|INT      |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_USAGE_START|INT      |         << Missing field >>         |[0] 2                                |Warn |      
+3       PIN_FLD_CYCLE_START|INT      |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_CYCLE_START|INT      |         << Missing field >>         |[0] 2                                |Warn |      
+3       PIN_FLD_PURCHASE_ST|INT      |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_PACKAGE_ID |INT      |         << Missing field >>         |[0] 938                              |Warn |      
+2     PIN_FLD_NAME         |STR      |         << Missing field >>         |[0] ""                               |Warn |      
+2     PIN_FLD_POID         |POID     |         << Missing field >>         |[0] 0.0.0.1 /deal -1 0               |Warn |      
+2     PIN_FLD_END_T        |TSTAMP   |         << Missing field >>         |[0] (0) <null>                       |Warn |      
+2     PIN_FLD_START_T      |TSTAMP   |         << Missing field >>         |[0] (0) <null>                       |Warn |      
+2     PIN_FLD_PLAN_OBJ     |POID     |         << Missing field >>         |[0] 0.0.0.1 /plan -1 0               |Warn |      
+1   PIN_FLD_BAL_GRP_OBJ    |POID     |         << Missing field >>         |[0] 0.0.0.1 /balance_group 4042168 0 |Warn |      
+1   PIN_FLD_PASSWD_CLEAR   |STR      |         << Missing field >>         |[0] "XXXX"                           |Warn |      
+1   PIN_FLD_LOGIN          |STR      |         << Missing field >>         |[0] "PINATA-aac-123-ncnm30_one_time" |Warn |      
+1   PIN_FLD_ALIAS_LIST     |ARRAY    |         << Missing field >>         |[1] allocated 20, used 1             |Warn |      
+2     PIN_FLD_NAME         |STR      |         << Missing field >>         |[0] "PINATA-aac-123-ncnm30_one_time" |Warn |      
+1   PIN_FLD_BILLINFO_OBJ   |POID     |         << Missing field >>         |[0] 0.0.0.1 /billinfo 4039096 0      |Warn |      
+0 PIN_FLD_ACCOUNT_OBJ      |POID     |         << Missing field >>         |[0] 0.0.0.1 /account 4039352 0       |Warn |      
+0 PIN_FLD_SERVICES         |ARRAY    |         << Missing field >>         |[1] allocated 20, used 8             |Warn |      
+1   PIN_FLD_SERVICE_OBJ    |POID     |         << Missing field >>         |[0] 0.0.0.1 /service/circuit/mngd_sec|Warn |      
+1   PIN_FLD_BAL_GRP_OBJ    |POID     |         << Missing field >>         |[0] 0.0.0.1 /balance_group 4042168 0 |Warn |      
+1   PIN_FLD_PASSWD_CLEAR   |STR      |         << Missing field >>         |[0] "XXXX"                           |Warn |      
+1   PIN_FLD_LOGIN          |STR      |         << Missing field >>         |[0] "PINATA-aac-123-ncnm30_cycle_fwd"|Warn |      
+1   PIN_FLD_INHERITED_INFO |SUBSTRUCT|         << Missing field >>         |[0] allocated 20, used 1             |Warn |      
+2     CHT_FLD_CIRCUIT_INFO |SUBSTRUCT|         << Missing field >>         |[0] allocated 20, used 9             |Warn |      
+3       CHT_FLD_BANDWIDTH  |STR      |         << Missing field >>         |[0] "1M"                             |Warn |      
+3       CHT_FLD_CONTRACT_EN|TSTAMP   |         << Missing field >>         |[0] (1458709200) Wed 23 Mar 2016 10:3|Warn |      
+3       CHT_FLD_CIRCUIT_TYP|STR      |         << Missing field >>         |[0] "LANDLINE"                       |Warn |      
+3       PIN_FLD_PO_ORDER_NO|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_CLASSOF_SER|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_NODE_ID    |STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_E2E_CONNECT|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_SERVICE_ORD|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+3       CHT_FLD_CUST_CIRCUI|STR      |         << Missing field >>         |[0] ""                               |Warn |      
+1   PIN_FLD_DEAL_INFO      |SUBSTRUCT|         << Missing field >>         |[0] allocated 20, used 6             |Warn |      
+2     PIN_FLD_PRODUCTS     |ARRAY    |         << Missing field >>         |[0] allocated 20, used 13            |Warn |      
+3       PIN_FLD_CYCLE_FEE_A|DECIMAL  |         << Missing field >>         |[0] 400                              |Warn |      
+3       PIN_FLD_QUANTITY   |DECIMAL  |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_PURCHASE_ST|INT      |         << Missing field >>         |[0] 2                                |Warn |      
+3       PIN_FLD_PRODUCT_OBJ|POID     |         << Missing field >>         |[0] 0.0.0.1 /product 1011451 0       |Warn |      
+3       PIN_FLD_STATUS     |ENUM     |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_STATUS_FLAG|INT      |         << Missing field >>         |[0] 33554432                         |Warn |      
+3       PIN_FLD_USAGE_START|INT      |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_USAGE_START|INT      |         << Missing field >>         |[0] 2                                |Warn |      
+3       PIN_FLD_CYCLE_START|INT      |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_CYCLE_START|INT      |         << Missing field >>         |[0] 2                                |Warn |      
+3       PIN_FLD_PURCHASE_ST|INT      |         << Missing field >>         |[0] 1                                |Warn |      
+3       PIN_FLD_OFFERING_OB|POID     |         << Missing field >>         |[0] 0.0.0.1 /purchased_product 403606|Warn |      
+3       PIN_FLD_PACKAGE_ID |INT      |         << Missing field >>         |[0] 938                              |Warn |      
+2     PIN_FLD_NAME         |STR      |         << Missing field >>         |[0] ""                               |Warn |      
+2     PIN_FLD_POID         |POID     |         << Missing field >>         |[0] 0.0.0.1 /deal -1 0               |Warn |      
+2     PIN_FLD_END_T        |TSTAMP   |         << Missing field >>         |[0] (0) <null>                       |Warn |      
+2     PIN_FLD_START_T      |TSTAMP   |         << Missing field >>         |[0] (0) <null>                       |Warn |      
+2     PIN_FLD_PLAN_OBJ     |POID     |         << Missing field >>         |[0] 0.0.0.1 /plan -1 0               |Warn |      
+1   PIN_FLD_ALIAS_LIST     |ARRAY    |         << Missing field >>         |[1] allocated 20, used 1             |Warn |      
+2     PIN_FLD_NAME         |STR      |         << Missing field >>         |[0] "PINATA-aac-123-ncnm30_cycle_fwd"|Warn |      
+1   PIN_FLD_BILLINFO_OBJ   |POID     |         << Missing field >>         |[0] 0.0.0.1 /billinfo 4039096 0      |Warn |      
+0 PIN_FLD_BAL_INFO         |ARRAY    |         << Missing field >>         |[0] allocated 20, used 3             |Warn |      
+1   PIN_FLD_BILLINFO_OBJ   |POID     |         << Missing field >>         |[0] 0.0.0.1 /billinfo 4039096 0      |Warn |      
+1   PIN_FLD_POID           |POID     |         << Missing field >>         |[0] 0.0.0.1 /balance_group 4042168 0 |Warn |      
+1   PIN_FLD_ACCOUNT_OBJ    |POID     |         << Missing field >>         |[0] 0.0.0.1 /account 4039352 0       |Warn |      
+0 PIN_FLD_PROGRAM_NAME     |STR      |         << Missing field >>         |[0] "Automatic Customer Modification"|Warn |      
+0 PIN_FLD_START_T          |TSTAMP   |         << Missing field >>         |[0] (1451327400) Tue 29 Dec 2015 12:0|Warn |      
+0 PIN_FLD_END_T            |TSTAMP   |         << Missing field >>         |[0] (1451327400) Tue 29 Dec 2015 12:0|Warn |      
+0 PIN_FLD_ACCTINFO         |ARRAY    |         << Missing field >>         |[0] allocated 20, used 3             |Warn |      
+1   PIN_FLD_POID           |POID     |         << Missing field >>         |[0] 0.0.0.1 /account 4039352 8       |Warn |      
+1   PIN_FLD_CURRENCY       |INT      |         << Missing field >>         |[0] 840                              |Warn |      
+1   PIN_FLD_CURRENCY_SECOND|INT      |         << Missing field >>         |[0] 0                                |Warn |      
+========================================================================================================================
+done
+
+Disconnected from Infranet (cm pid: 222)
+
+Closed CMs: 222
+
+------------------------------------------------------------------------------------------------------------------------
+PIN Time: 12/29/2015-00:00:01,  Time: 12/29/2015-19:25:09, initiate_billing.opc Pass # 
+------------------------------------------------------------------------------------------------------------------------
+
+** Public Hash:
+"op_private" = "opcoder parameter hash"
+"sa_billinfo_id0" = "4039096"
+"purchased_product_id0" = "4037988"    <<NEW>>
+"SA_BILLINFO_ID" = "2d33k7"
+"sa_bal_grp_id0" = "4042168"
+"service_install_wavelength_id0" = "4037220"    <<NEW>>
+"/home/pin/portal/7.5/bin/" = ""
+"sa_account_id0" = "4039352"
+"ba_billinfo_id0" = "4042296"
+"ba_account_id0" = "4041784"
+"BA_ACCOUNT_NO" = "AACtesting28"
+"PRODUCT_LOGIN" = "PINATA-aac-123-ncnm30"    <<NEW>>
+"BA_BILLINFO_ID" = "BULCA1-07"
+"SA_ACCOUNT_NO" = "AACtesting29"
+** (end) Public Hash
+
+
+** (end) opcoder

@@ -1,0 +1,9 @@
+TCASEEND /end_end_account1 charter-test.pin /
+TCASESTART /end_end_account1 charter-test.pin DefaultCase/
+TDESC <no .tdesc description>
+PINCMD /end_end_account1 charter-test.pin DefaultCase/ (create.1.1: 101400002016)	 opcoder create_BA.opc "$f1" "$f2" "$f3" "$f4"  -o results
+DIRDIFF /create_BA.AACtestinan87__BUDAPW2-35__Patel__Ajit.out/ sz:35936 mt:1476440570 ct:1476440570 bs:4096 bk:72
+PINEXIT 0
+PINCMD /end_end_account1 charter-test.pin DefaultCase/ (results.1: )	 testresults -f results
+PINEXIT 0
+TCASEEND /end_end_account1 charter-test.pin results.1/

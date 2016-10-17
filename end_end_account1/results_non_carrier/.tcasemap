@@ -1,0 +1,15 @@
+TCASEEND /end_to_end_MNGD_SCRTY charter-test.pin /
+TCASESTART /end_to_end_MNGD_SCRTY charter-test.pin DefaultCase/
+TDESC <no .tdesc description>
+PINCMD /end_to_end_MNGD_SCRTY charter-test.pin DefaultCase/ (create.1.1: 122900002015)	 opcoder create_BA.opc "AACtesting32" "BULCA1-07"  -o results
+DIRDIFF /create_BA.AACtesting32__BULCA1-07.out/ sz:34947 mt:1451397599 ct:1451397599 bs:4096 bk:72
+PINEXIT 0
+PINCMD /end_to_end_MNGD_SCRTY charter-test.pin DefaultCase/ (create.1.2: 122900002015)	 opcoder create_SA.opc "AACtesting33" "2d33k7"  -o results
+DIRDIFF /create_SA.AACtesting33__2d33k7.out/ sz:36429 mt:1451397600 ct:1451397600 bs:4096 bk:72
+PINEXIT 0
+PINCMD /end_to_end_MNGD_SCRTY charter-test.pin DefaultCase/ (create.1.3: 122900002015)	 opcoder initiate_billing.opc "PINATA-aac-123-ncnm34" -o results
+DIRDIFF /initiate_billing.PINATA-aac-123-ncnm34.out/ sz:37133 mt:1451397601 ct:1451397601 bs:4096 bk:80
+PINEXIT 0
+PINCMD /end_to_end_MNGD_SCRTY charter-test.pin DefaultCase/ (results.1: )	 testresults -f results
+PINEXIT 0
+TCASEEND /end_to_end_MNGD_SCRTY charter-test.pin results.1/

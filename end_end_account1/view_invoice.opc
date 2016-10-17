@@ -1,0 +1,21 @@
+.opctl on
+.opctl off
+
+D 2015-08-06 03:48:55.093  sacjoshi-linux  cm:10969.-158521632  fm_bill_make_bill.c:255 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+        CM input flist: opcode PCM_OP_INV_VIEW_INVOICE, opflags=0x0
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /invoice $(inv_id0) 0
+0 PIN_FLD_TYPE_STR        STR [0] "text/xml"
+
+D 2015-08-06 03:48:55.516  sacjoshi-linux  cm:10969.-158521632  fm_bill_make_bill.c.c:313 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+         CM output flist: opcode PCM_OP_INV_VIEW_INVOICE
+# number of field entries allocated 29, used 28
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /invoice 102573 1
+0 PIN_FLD_BILL_OBJ       POID [0] 0.0.0.1 /bill 109373 0
+0 PIN_FLD_BILL_NO         STR [0] "B1-179"
+0 PIN_FLD_BILL_DATE_T  TSTAMP [0] (1443675600) Thu Oct  1 00:00:00 2015
+0 PIN_FLD_HEADER_STR      STR [0] ""
+0 PIN_FLD_HEADER_NUM      INT [0] 0
+0 PIN_FLD_RESULT         ENUM [0] 1
+0 PIN_FLD_FORMATS       ARRAY [0] allocated 20, used 2
+1     PIN_FLD_TYPE_STR        STR [0] "text/xml"
+1     PIN_FLD_BUFFER          BUF [0] flag/size/offset 0x0 15077 0 data:

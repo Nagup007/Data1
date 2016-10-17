@@ -1,0 +1,21 @@
+.opctl on
+.opctl off
+
+D Fri Apr 10 09:30:02 2015  kstllbrmd11  cm:29617  fm_subscription_set_prodinfo.c:254 1:kstllsoad11:UnknownProgramName:0:weblogic.work.j2ee.J2EEWorkManager$WorkWithListener@136f7f14:64:1428676321:0
+        CM input flist: opcode PCM_OP_SUBSCRIPTION_SET_PRODINFO, opflags=0x0
+# number of field entries allocated 20, used 2
+0 PIN_FLD_POID    POID [0] 0.0.0.1 /account $(sa_account_id0) 0
+0     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1 /service/circuit/wavelength/install $(service_install_wavelength_id0) 0
+0 PIN_FLD_PRODUCTS      ARRAY [0] allocated 20, used 5
+1     PIN_FLD_OFFERING_OBJ   POID [0] 0.0.0.1 /purchased_product $(purchased_product_id0) 0
+1     PIN_FLD_PRODUCT_OBJ    POID [0] 0.0.0.1 /product $(purchase_fee_product_id0) 0
+0 PIN_FLD_PROGRAM_NAME    STR [0] "Barcelona OM Integration"
+
+D Fri Apr 10 09:30:02 2015  kstllbrmd11  cm:29617  fm_subscription_set_prodinfo.c:254 1:kstllsoad11:UnknownProgramName:0:weblogic.work.j2ee.J2EEWorkManager$WorkWithListener@136f7f14:64:1428676321:0
+         CM output flist: opcode PCM_OP_SUBSCRIPTION_SET_PRODINFO
+# number of field entries allocated 20, used 2
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /account 11738288 0
+0 PIN_FLD_RESULTS       ARRAY [0] allocated 20, used 3
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1 /service/circuit/wavelength/install 11728655 0
+1     PIN_FLD_ACCOUNT_OBJ    POID [0] 0.0.0.1 /account 11738288 0
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /event/billing/product/action/modify 17592197779554 0

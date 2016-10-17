@@ -1,0 +1,13 @@
+.opctl on
+.opctl off
+
+
+D 2015-08-06 03:48:55.093  sacjoshi-linux  cm:10969.-158521632  fm_cust_commit_customer.c:255 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+        CM input flist: opcode PCM_OP_WRITE_FLDS, opflags=0x0
+0 PIN_FLD_POID                      POID [0] 0.0.0.1 /billinfo $(sa_billinfo_id0) 8
+0 PIN_FLD_BILLING_STATUS            ENUM [0] 0
+0 PIN_FLD_BILLING_STATUS_FLAGS       INT [0] 0
+
+D 2015-08-06 03:48:55.093  sacjoshi-linux  cm:10969.-158521632  fm_cust_commit_customer.c:255 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+        CM output flist: opcode PCM_OP_WRITE_FLDS
+0 PIN_FLD_POID                      POID [0] 0.0.0.1 /billinfo 12345 0

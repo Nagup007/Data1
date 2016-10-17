@@ -1,0 +1,24 @@
+.opctl on
+
+# description: Create a cc account, with the passed in name
+
+#
+# usage: opcoder create_cc.opc firstname [middlename [lastname]] [login]
+#
+#       firstname  = canonical form of first name (OPTIONAL)
+#       middlename = canonical form (lower case) of middle name (OPTIONAL)
+#       lastname   = canonical form of last name (OPTIONAL)
+#       login   defaults to firstname
+#
+#               default = clark2 cc clark2
+#
+.opctl off
+W Sun Jan 01 02:02:34 2006  elrond  cm:26196  cm_child.c:3464
+        CM input flist: op PCM_OP_READ_OBJ, flags 0x0
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /product  $(cycle_forward_product_id0) 0
+D 2015-08-06 03:48:55.516  sacjoshi-linux  cm:10969.-158521632  fm_cust_commit_customer.c:313 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+         CM output flist: opcode PCM_OP_READ_OBJ
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /product abc 0
+.hash getting_service_permitted1 1
+0 PIN_FLD_PERMITTED       STR [0] "/service/circuit/eth_UNI"
+$getting_service_permitted =~ s/"//g;

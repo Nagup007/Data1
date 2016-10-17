@@ -1,0 +1,12 @@
+#  12/29/2015#  (from: /home/pin/portal/7.5/bin/pinata)
+
+create_SA.AACtesting33__2d33k7.out.result  Warn
+create.1  
+results.1.filelist   .out
+results/  create_BA.AACtesting32__BULCA1-07.out
+results.1  
+results.1.exec  0
+create.1.filelist  create_BA.out create_SA.out initiate_billing.out
+create.1.exec  0
+create_BA.AACtesting32__BULCA1-07.out.result  Warn
+initiate_billing.PINATA-aac-123-ncnm34.out.result  Warn

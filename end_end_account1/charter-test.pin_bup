@@ -1,0 +1,81 @@
+# ###################################################################################
+# PINATA Intialization
+# ###################################################################################
+# generate unique log name for results
+.uniqdir oldlog results.old
+.set tlog results
+#.set opclib $(PIN_HOME)/apps/quest/opclib
+.set opclib /home/pin/portal/7.5/apps/quest/opclib
+.include $(opclib)/pinata.include.pin
+
+# NOTE: pin_virtual_time syntax: MMDDhhmmYYYY
+
+# ###################################################################################
+# $(opcoder) commandline flags
+# ###################################################################################
+#       to turn validation ON for ALL fields in ALL flists for all who call $(opcoder)
+# .set valid -v
+
+#       to set up for perl debugging of opcoder (or other program)
+# .set perl perl -d
+
+#       to make explicit the path to opcoder (for debugging or choosing another version of opcoder)
+# .set OPC_PATH $perl $(PIN_HOME/bin)/
+
+#       to add extra extension to opcoder *.out file name
+# add "ext" as a column header  => setting it will add extra extension to opcoder *.out file name
+
+#       to run one or all $(opcoder) commands under perl debugger
+# change $(opcoder) into $(opcoder_db) or do .set opcoder $(opcoder_db) to run perl debugger on opcoder(s)
+
+# ###################################################################################
+# Specify Test Cases
+# ###################################################################################
+# format:
+# .tcase <TestCaseID>  <One-line Testcase Description>
+#.tcase create.1  setting time (pin_virtual_time) then running opcoder on "create_BA.opc"
+#.tcase create.2  leaving time alone and running opcoder on "create_SA.opc"
+#.tcase create.3  leaving time alone and passing parameters to the opc file (create_with_parms.opc)
+
+#.tcase bill.1  runs billing, and validates passing parameter 10 to validate_bill_due.opc. Takes 2 steps (bill.1.1 & 2)
+
+# ***** End Test Case ****
+
+.set BA_ACCOUNT_NO "1-PINATA-TEST-514"
+.set BA_BILLINFO_ID "BULCA1-07"
+.set SA_BILLINFO_ID "2d33k7"
+.set SA_ACCOUNT_NO "1-PINATA-TEST-515"
+.set PRODUCT_LOGIN "PINATA-TESTING-516"
+#.set CURRENT_TIME $(date +%s) 
+# .set perl perl -d
+# ###################################################################################
+# Setup, Execute, Validate and Cleanup Test Cases
+# ###################################################################################
+.header
+test.num        pin_virtual_time        testname                command
+
+# Setup & Execute Test Cases
+[create]
+create.1.1  091200002015     create_BA                 opcoder create_BA.opc $(BA_ACCOUNT_NO) $(BA_BILLINFO_ID)  -o $(tlog)
+create.1.2  091200002015     create_SA                 opcoder create_SA.opc $(SA_ACCOUNT_NO) $(SA_BILLINFO_ID)  -o $(tlog)
+create.1.3  091200002015     search_product_by_name    opcoder search_product_by_name.opc -o $(tlog)
+create.1.4  091200002015     initiate_billing	       opcoder initiate_billing.opc $(PRODUCT_LOGIN) -o $(tlog)
+create.1.5  091200002015     fulfill_billing_install   opcoder fulfill_billing_install.opc -o $(tlog)
+create.1.6  091200002015     update_billinfo_sa	       opcoder	update_billinfo_sa.opc -o $(tlog)
+create.1.7  091200002015     update_billinfo_ba	       opcoder update_billinfo_ba.opc -o $(tlog)
+create.1.8  101200002015     bill_now_sa	       opcoder bill_now_sa.opc -o $(tlog)
+create.1.9  101200002015     bill_sa                   opcoder bill_sa.opc -o $(tlog)
+create.1.10  101200002015     bill_ba		       opcoder bill_ba.opc -o $(tlog)
+create.1.11 101200002015     inv_ba	               opcoder inv_ba.opc -o $(tlog)
+create.1.12 101200002015     view_invoice	       opcoder view_invoice.opc -o $(tlog)	
+create.1.13 112700002015     collection		       opcoder collection.opc -o $(tlog)
+####################################################################################
+# Summarize the results
+# ###################################################################################
+#
+.header
+test.num        command
+[results]
+results.1       testresults -f $(tlog)
+
+[end]

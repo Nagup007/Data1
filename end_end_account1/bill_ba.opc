@@ -1,0 +1,18 @@
+.opctl on
+.opctl off
+
+D 2015-08-06 03:48:55.093  sacjoshi-linux  cm:10969.-158521632  fm_bill_make_bill.c:255 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+        CM input flist: opcode PCM_OP_BILL_MAKE_BILL, opflags=0x0
+0 PIN_FLD_BILLINFO_OBJ   POID [0] 0.0.0.1 /billinfo $(ba_billinfo_id0) 0
+0 PIN_FLD_POID    POID [0] 0.0.0.1 /account $(ba_account_id0) 1
+0 PIN_FLD_PROGRAM_NAME    STR [0] "pin_bill_accts"
+D 2015-08-06 03:48:55.516  sacjoshi-linux  cm:10969.-158521632  fm_bill_make_bill.c.c:313 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+         CM output flist: opcode PCM_OP_BILL_MAKE_BILL
+# number of field entries allocated 29, used 28
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /account 102573 1
+0 PIN_FLD_BILLINFO_OBJ   POID [0] 0.0.0.1 /billinfo 103085 0
+.hash bill_id0 3
+0 PIN_FLD_LAST_BILL_OBJ   POID [0] 0.0.0.1 /bill 105133 0
+0 PIN_FLD_PENDING_RECV DECIMAL [0] 170
+0 PIN_FLD_BILLING_STATE   ENUM [0] 0
+0 PIN_FLD_CURRENT_TOTAL DECIMAL [0] 0

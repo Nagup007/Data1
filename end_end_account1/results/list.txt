@@ -1,0 +1,2 @@
+"BA_ACCOUNT_NO" = "AACtestinan87"    <<NEW>>
+"BA_BILLINFO_ID" = "BUDAPW2-35"    <<NEW>>

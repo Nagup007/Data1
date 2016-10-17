@@ -1,0 +1,105 @@
+.opctl on
+
+# description: Create a cc account, with the passed in name
+
+#
+# usage: opcoder create_cc.opc firstname [middlename [lastname]] [login]
+#
+#       firstname  = canonical form of first name (OPTIONAL)
+#       middlename = canonical form (lower case) of middle name (OPTIONAL)
+#       lastname   = canonical form of last name (OPTIONAL)
+#       login   defaults to firstname
+#
+#               default = clark2 cc clark2
+#
+
+.parmlist PRODUCT_LOGIN 
+.opctl off
+W Sun Jan 01 02:02:34 2006  elrond  cm:26196  cm_child.c:3464
+        CM input flist: op PCM_OP_CUST_MODIFY_CUSTOMER, flags 0x0
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+0 PIN_FLD_ACCOUNT_OBJ    POID [0] 0.0.0.1 /account $(sa_account_id0) 0
+0 PIN_FLD_SERVICES      ARRAY [0] allocated 20, used 7
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1   /service/circuit/mngd_security/install -1 0
+1     PIN_FLD_BAL_GRP_OBJ    POID [0] 0.0.0.1 /balance_group $(sa_bal_grp_id0) 0
+1     PIN_FLD_PASSWD_CLEAR    STR [0] "XXXX"
+1     PIN_FLD_LOGIN           STR [0] "$(PRODUCT_LOGIN)_one_time"
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+2         CHT_FLD_CIRCUIT_INFO SUBSTRUCT [0] allocated 20, used 9
+3             CHT_FLD_BANDWIDTH       STR [0] "1M"
+3             CHT_FLD_CONTRACT_END_DATE TSTAMP [0] (1458709200) Wed Mar 23 00:00:00 2016
+3             CHT_FLD_CIRCUIT_TYPE    STR [0] "CELLBACKHAUL"
+3             PIN_FLD_PO_ORDER_NO     STR [0] ""
+3             CHT_FLD_CLASSOF_SERVICE    STR [0] ""
+3             CHT_FLD_NODE_ID         STR [0] ""
+3             CHT_FLD_E2E_CONNECT_ID    STR [0] ""
+3             CHT_FLD_SERVICE_ORDER_NO    STR [0] ""
+3             CHT_FLD_CUST_CIRCUIT_ID    STR [0] ""
+1     PIN_FLD_DEAL_INFO    SUBSTRUCT [0] allocated 20, used 5
+2         PIN_FLD_PRODUCTS      ARRAY [0] allocated 20, used 11
+3             PIN_FLD_PURCHASE_FEE_AMT DECIMAL [0] 500
+3             PIN_FLD_QUANTITY     DECIMAL [0] 1
+3             PIN_FLD_PURCHASE_START_UNIT    INT [0] 2
+3             PIN_FLD_PRODUCT_OBJ    POID [0] 0.0.0.1 /product 1007867 0
+3             PIN_FLD_STATUS         ENUM [0] 1
+3             PIN_FLD_STATUS_FLAGS    INT [0] 16777216
+3             PIN_FLD_USAGE_START_OFFSET    INT [0] 1
+3             PIN_FLD_USAGE_START_UNIT    INT [0] 2
+3             PIN_FLD_CYCLE_START_OFFSET    INT [0] 1
+3             PIN_FLD_CYCLE_START_UNIT    INT [0] 2
+3             PIN_FLD_PURCHASE_START_OFFSET    INT [0] 1
+2         PIN_FLD_NAME            STR [0] ""
+2         PIN_FLD_POID           POID [0] 0.0.0.1 /deal -1 0
+2         PIN_FLD_END_T        TSTAMP [0] (0) <null>
+2         PIN_FLD_START_T      TSTAMP [0] (0) <null>
+1     PIN_FLD_ALIAS_LIST    ARRAY [1] allocated 20, used 1
+2         PIN_FLD_NAME            STR [0] "$(PRODUCT_LOGIN)_one_time"
+0 PIN_FLD_SERVICES      ARRAY [1] allocated 20, used 7
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1 /service/circuit/mngd_security -1 0
+1     PIN_FLD_BAL_GRP_OBJ    POID [0] 0.0.0.1 /balance_group $(sa_bal_grp_id0) 0
+1     PIN_FLD_PASSWD_CLEAR    STR [0] "XXXX"
+1     PIN_FLD_LOGIN           STR [0] "$(PRODUCT_LOGIN)_cycle_fwd"
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+2         CHT_FLD_CIRCUIT_INFO SUBSTRUCT [0] allocated 20, used 9
+3             CHT_FLD_BANDWIDTH       STR [0] "1M"
+3             CHT_FLD_CONTRACT_END_DATE TSTAMP [0] (1458709200) Wed Mar 23 00:00:00 2016
+3             CHT_FLD_CIRCUIT_TYPE    STR [0] "LANDLINE"
+3             PIN_FLD_PO_ORDER_NO     STR [0] ""
+3             CHT_FLD_CLASSOF_SERVICE    STR [0] ""
+3             CHT_FLD_NODE_ID         STR [0] ""
+3             CHT_FLD_E2E_CONNECT_ID    STR [0] ""
+3             CHT_FLD_SERVICE_ORDER_NO    STR [0] ""
+3             CHT_FLD_CUST_CIRCUIT_ID    STR [0] ""
+1     PIN_FLD_DEAL_INFO    SUBSTRUCT [0] allocated 20, used 5
+2         PIN_FLD_PRODUCTS      ARRAY [0] allocated 20, used 11
+3             PIN_FLD_CYCLE_FEE_AMT DECIMAL [0] 400
+3             PIN_FLD_QUANTITY     DECIMAL [0] 1
+3             PIN_FLD_PURCHASE_START_UNIT    INT [0] 2
+3             PIN_FLD_PRODUCT_OBJ    POID [0] 0.0.0.1 /product 1011451 0
+3             PIN_FLD_STATUS         ENUM [0] 1
+3             PIN_FLD_STATUS_FLAGS    INT [0] 33554432
+3             PIN_FLD_USAGE_START_OFFSET    INT [0] 1
+3             PIN_FLD_USAGE_START_UNIT    INT [0] 2
+3             PIN_FLD_CYCLE_START_OFFSET    INT [0] 1
+3             PIN_FLD_CYCLE_START_UNIT    INT [0] 2
+3             PIN_FLD_PURCHASE_START_OFFSET    INT [0] 1
+2         PIN_FLD_NAME            STR [0] ""
+2         PIN_FLD_POID           POID [0] 0.0.0.1 /deal -1 0
+2         PIN_FLD_END_T        TSTAMP [0] (0) <null>
+2         PIN_FLD_START_T      TSTAMP [0] (0) <null>
+1     PIN_FLD_ALIAS_LIST    ARRAY [1] allocated 20, used 1
+2         PIN_FLD_NAME            STR [0] "$(PRODUCT_LOGIN)_cycle_fwd"
+0 PIN_FLD_BAL_INFO      ARRAY [0] allocated 20, used 2
+1     PIN_FLD_BILLINFO_OBJ   POID [0] 0.0.0.1 /billinfo $(sa_billinfo_id0) 0
+1     PIN_FLD_POID           POID [0] 0.0.0.1 /balance_group $(sa_bal_grp_id0) 0
+D 2015-08-06 03:48:55.516  sacjoshi-linux  cm:10969.-158521632  fm_cust_commit_customer.c:313 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+         CM output flist: opcode PCM_OP_CUST_MODIFY_CUSTOMER
+0 PIN_FLD_POID           POID [0] 0.0.0.1 /plan -1 0
+0 PIN_FLD_SERVICES      ARRAY [0] allocated 20, used 8
+.hash service_install_wavelength_id0 3
+1     PIN_FLD_SERVICE_OBJ    POID [0] 0.0.0.1 /service/circuit/wavelength/install 11727863 0
+1     PIN_FLD_INHERITED_INFO SUBSTRUCT [0] allocated 20, used 1
+1     PIN_FLD_DEAL_INFO    SUBSTRUCT [0] allocated 20, used 6
+2         PIN_FLD_PRODUCTS      ARRAY [0] allocated 20, used 13
+.hash purchased_product_id0 3
+3             PIN_FLD_OFFERING_OBJ   POID [0] 0.0.0.1 /purchased_product 1958589 0

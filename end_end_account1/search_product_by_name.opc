@@ -1,0 +1,26 @@
+.opctl on
+.opctl off
+D 2015-08-06 03:48:55.093  sacjoshi-linux  cm:10969.-158521632  fm_cust_commit_customer.c:255 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+        CM input flist: opcode PCM_OP_SEARCH, opflags=0x0
+0 PIN_FLD_POID                      POID [0] 0.0.0.1 /search -1 0
+0 PIN_FLD_FLAGS                      INT [0] 256
+0 PIN_FLD_TEMPLATE                   STR [0] "select X from /product where ( F1 like V1 or F2 like V2 ) "
+0 PIN_FLD_RESULTS                  ARRAY [0] allocated 2, used 2
+1     PIN_FLD_POID                  POID [0] NULL
+1     PIN_FLD_NAME                   STR [0] ""
+0 PIN_FLD_ARGS                     ARRAY [1] allocated 1, used 1
+1     PIN_FLD_NAME                   STR [0] "Wavelength Service"
+0 PIN_FLD_ARGS                     ARRAY [2] allocated 1, used 1
+1     PIN_FLD_NAME                   STR [0] "Wavelength Install"
+
+D 2015-08-06 03:48:55.093  sacjoshi-linux  cm:10969.-158521632  fm_cust_commit_customer.c:255 1:LNAR-PBV1B22:CustomerCenter:0:AWT-EventQueue-0:63:1438813135:0
+        CM output flist: opcode PCM_OP_SEARCH
+0 PIN_FLD_POID                      POID [0] 0.0.0.1 /search -1 0
+0 PIN_FLD_RESULTS                  ARRAY [0] allocated 2, used 2
+.hash purchase_fee_product_id0 3
+1     PIN_FLD_POID                  POID [0] 0.0.0.1 /product 101774 1
+1     PIN_FLD_NAME                   STR [0] "Wavelength Install"
+0 PIN_FLD_RESULTS                  ARRAY [1] allocated 2, used 2
+.hash cycle_forward_product_id0 3
+1     PIN_FLD_POID                  POID [0] 0.0.0.1 /product 101198 1
+1     PIN_FLD_NAME                   STR [0] "Wavelength Service"
